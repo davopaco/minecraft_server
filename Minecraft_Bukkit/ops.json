@@ -34,5 +34,11 @@
     "name": "Sara",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e1ceb40e-403c-3c86-a458-a57ba6f12bd6",
+    "name": "Rsalas",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

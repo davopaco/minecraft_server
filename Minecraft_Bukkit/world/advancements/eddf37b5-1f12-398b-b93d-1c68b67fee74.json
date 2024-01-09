@@ -19,6 +19,7 @@
       "minecraft:frozen_river": "2023-12-26 20:04:08 +0000",
       "minecraft:jungle": "2023-12-26 21:19:05 +0000",
       "minecraft:ocean": "2023-12-27 00:43:02 +0000",
+      "minecraft:birch_forest": "2024-01-06 23:00:33 +0000",
       "minecraft:snowy_beach": "2023-12-27 00:20:20 +0000",
       "minecraft:wooded_badlands": "2023-12-26 21:33:33 +0000",
       "minecraft:bamboo_jungle": "2023-12-26 22:42:13 +0000",
@@ -128,11 +129,13 @@
       "sweet_berries": "2023-12-26 20:09:57 +0000",
       "cooked_beef": "2023-12-26 19:06:25 +0000",
       "baked_potato": "2023-12-26 19:36:48 +0000",
+      "beef": "2024-01-07 02:33:02 +0000",
       "melon_slice": "2023-12-26 21:47:05 +0000",
       "porkchop": "2023-12-27 00:51:19 +0000",
       "apple": "2023-12-27 01:42:46 +0000",
       "cooked_chicken": "2023-12-27 02:23:56 +0000",
       "rabbit": "2023-12-27 00:47:28 +0000",
+      "cooked_cod": "2024-01-07 02:34:18 +0000",
       "cooked_salmon": "2023-12-27 01:01:17 +0000"
     },
     "done": false
@@ -733,10 +736,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2023-12-30 18:34:32 +0000",
+      "minecraft:pillager": "2024-01-07 01:37:40 +0000",
       "minecraft:skeleton": "2023-12-26 20:59:23 +0000",
       "minecraft:phantom": "2023-12-27 01:13:46 +0000",
       "minecraft:zombified_piglin": "2023-12-29 02:49:31 +0000",
+      "minecraft:witch": "2024-01-07 02:14:02 +0000",
+      "minecraft:ravager": "2024-01-07 02:10:02 +0000",
+      "minecraft:cave_spider": "2023-12-30 18:34:32 +0000",
+      "minecraft:vindicator": "2024-01-07 02:00:03 +0000",
       "minecraft:enderman": "2023-12-26 21:21:55 +0000",
       "minecraft:spider": "2023-12-26 20:03:17 +0000",
       "minecraft:vex": "2023-12-27 01:59:47 +0000",
@@ -2285,7 +2292,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2023-12-30 00:32:03 +0000",
-      "minecraft:nether_wastes": "2023-12-30 00:52:07 +0000"
+      "minecraft:nether_wastes": "2023-12-30 00:52:07 +0000",
+      "minecraft:warped_forest": "2024-01-06 23:42:27 +0000"
     },
     "done": false
   },
@@ -2375,6 +2383,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2024-01-07 13:33:50 +0000",
+      "minecraft:wolf": "2024-01-06 23:33:39 +0000",
+      "minecraft:turtle": "2024-01-07 15:31:32 +0000",
       "minecraft:sheep": "2023-12-30 01:44:27 +0000"
     },
     "done": false
@@ -2592,6 +2603,504 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-01-03 01:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-01-06 21:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2024-01-06 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-01-06 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-01-06 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2024-01-06 22:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-01-06 22:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-01-06 22:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-06 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-01-06 23:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-01-06 23:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-01-06 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-01-06 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-01-06 23:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-01-06 23:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-01-06 23:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-01-06 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-01-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-01-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-01-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-01-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2024-01-06 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-01-06 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-01-06 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-01-06 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-01-06 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-01-06 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-01-06 23:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-01-06 23:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-01-07 00:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-01-07 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-01-07 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-01-07 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-01-07 02:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-01-07 02:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-01-07 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-01-07 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-01-07 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-01-07 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-01-07 15:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-01-07 15:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-01-07 15:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-01-07 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-01-08 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-08 18:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-08 18:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-01-08 18:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-01-08 20:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-01-08 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-01-09 01:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-01-09 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-01-09 00:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-01-09 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-01-09 01:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-01-09 00:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-01-09 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-01-09 00:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-01-09 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-01-09 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-01-09 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-01-09 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-01-09 00:59:23 +0000"
     },
     "done": true
   },

@@ -1,96 +1,202 @@
-[17:15:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:15:44] [ServerMain/INFO]: Loaded 7 recipes
-[17:15:45] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[17:15:45] [Server thread/INFO]: Loading properties
-[17:15:45] [Server thread/INFO]: Default game type: SURVIVAL
-[17:15:45] [Server thread/INFO]: Generating keypair
-[17:15:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:15:45] [Server thread/INFO]: Using epoll channel type
-[17:15:46] [Server thread/INFO]: This server is running CraftBukkit version 3992-Bukkit-19aec59 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[17:15:46] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[17:15:51] [Server thread/WARN]: Legacy plugin SetHome v5.1.2 does not specify an api-version.
-[17:15:51] [Server thread/ERROR]: Could not load 'plugins/changeskin.jar' in folder 'plugins'
-org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[bukkit-1.20.4-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.loadPlugins(CraftServer.java:426) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:213) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:979) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:296) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:15:51] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
-[17:15:51] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.0.4
-[17:15:51] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.4
-[17:15:52] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_20_R3[32;1m, using [33;1mMappingSpigotSkinRefresher[32;1m.[0;39m[m
-[17:15:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:15:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:15:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:15:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:15:52] [Server thread/INFO]: Preparing level "world"
-[17:15:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:06] [Server thread/INFO]: Time elapsed: 7759 ms
-[17:16:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:16:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:10] [Server thread/INFO]: Time elapsed: 3893 ms
-[17:16:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:16:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:14] [Server thread/INFO]: Time elapsed: 3856 ms
-[17:16:14] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2
-[17:16:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:16:14] [Server thread/INFO]: Done (21.540s)! For help, type "help"
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.4[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m677e967[0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
-[17:16:14] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
-[17:16:26] [Server thread/INFO]: Davopaco joined the game
-[17:16:26] [Server thread/INFO]: Davopaco[/190.70.4.120:58295] logged in with entity id 8 at ([world]-20892.0104961568, 72.0, -529.7252250962711)
-[17:16:51] [Server thread/INFO]: Davopaco lost connection: Disconnected
-[17:16:52] [Server thread/INFO]: Davopaco left the game
-[17:16:55] [Server thread/INFO]: Stopping the server
-[17:16:55] [Server thread/INFO]: Stopping server
-[17:16:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.4
-[17:16:55] [Server thread/INFO]: [SetHome] Disabling SetHome v5.1.2
-[17:16:55] [Server thread/INFO]: Saving players
-[17:16:55] [Server thread/INFO]: Saving worlds
-[17:16:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:16:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:16:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:16:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:07:05] [Server thread/INFO]: AsukitaX joined the game
+[00:07:05] [Server thread/INFO]: AsukitaX[/181.56.15.203:62746] logged in with entity id 237447 at ([world]-20915.141107912776, 72.5625, -514.4888258226626)
+[00:09:56] [Server thread/INFO]: AsukitaX issued server command: /gamemode spectator
+[00:09:56] [Server thread/INFO]: [AsukitaX: Set own game mode to Spectator Mode]
+[00:10:14] [Server thread/INFO]: AsukitaX issued server command: /gamemode survival
+[00:10:14] [Server thread/INFO]: [AsukitaX: Set own game mode to Survival Mode]
+[00:13:57] [Server thread/INFO]: AngelicaRD joined the game
+[00:13:57] [Server thread/INFO]: AngelicaRD[/179.33.110.120:53266] logged in with entity id 239561 at ([world]-21991.52084063745, 72.0, 237.61871453906434)
+[00:14:11] [Async Chat Thread - #233/INFO]: [Not Secure] <AngelicaRD> hola
+[00:14:14] [Async Chat Thread - #233/INFO]: [Not Secure] <AsukitaX> HOLA
+[00:14:37] [Server thread/INFO]: AngelicaRD issued server command: /tp AsukitaX
+[00:14:37] [Server thread/INFO]: [AngelicaRD: Teleported AngelicaRD to AsukitaX]
+[00:14:39] [Async Chat Thread - #232/INFO]: [Not Secure] <AsukitaX> ay
+[00:15:32] [Async Chat Thread - #233/INFO]: [Not Secure] <AngelicaRD> nooo no tienen scouts
+[00:15:39] [Async Chat Thread - #232/INFO]: [Not Secure] <AsukitaX> NOOOOOOOOOOOOOO
+[00:16:54] [Async Chat Thread - #235/INFO]: [Not Secure] <AsukitaX> AHORA si hay q hacer el establo
+[00:16:59] [Async Chat Thread - #234/INFO]: [Not Secure] <AsukitaX> grande
+[00:17:30] [Async Chat Thread - #235/INFO]: [Not Secure] <AngelicaRD> yo digo q
+[00:17:35] [Async Chat Thread - #234/INFO]: [Not Secure] <AngelicaRD> separemos los esqueletos
+[00:17:39] [Async Chat Thread - #235/INFO]: [Not Secure] <AsukitaX> si
+[00:17:44] [Async Chat Thread - #235/INFO]: [Not Secure] <AsukitaX> hagamos uno creepy
+[00:17:47] [Async Chat Thread - #234/INFO]: [Not Secure] <AsukitaX> y uno sanito
+[00:22:13] [Async Chat Thread - #237/INFO]: [Not Secure] <AngelicaRD> en donde el establo halloween
+[00:22:19] [Server thread/INFO]: AsukitaX issued server command: /tp AngelicaRD
+[00:22:19] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to AngelicaRD]
+[00:22:33] [Async Chat Thread - #237/INFO]: [Not Secure] <AsukitaX> mmmmmmmmm
+[00:22:55] [Async Chat Thread - #236/INFO]: [Not Secure] <AsukitaX> perame pienso
+[00:22:58] [Async Chat Thread - #236/INFO]: [Not Secure] <AngelicaRD> ok
+[00:26:00] [Async Chat Thread - #239/INFO]: [Not Secure] <AsukitaX> creo q mi primo va a jugar ahorita
+[00:26:12] [Async Chat Thread - #238/INFO]: [Not Secure] <AngelicaRD> oki
+[00:27:25] [Async Chat Thread - #241/INFO]: [Not Secure] <AngelicaRD> le puse cerca al portal pq se nos estaban llendo los animales
+[00:27:32] [Async Chat Thread - #240/INFO]: [Not Secure] <AsukitaX> siiiiiiiiiiiii yo viii
+[00:27:36] [Async Chat Thread - #240/INFO]: [Not Secure] <AngelicaRD> una llama quedó perdida para siempre
+[00:27:36] [Async Chat Thread - #241/INFO]: [Not Secure] <AsukitaX> muaaaaaaaaack
+[00:27:41] [Async Chat Thread - #240/INFO]: [Not Secure] <AngelicaRD> y huesitos casi se muere
+[00:27:42] [Async Chat Thread - #240/INFO]: [Not Secure] <AsukitaX> siiiiiiiii KJDHGJKF YO ME METI
+[00:29:20] [Server thread/INFO]: AngelicaRD issued server command: /home
+[00:29:55] [Server thread/INFO]: AngelicaRD issued server command: /tp AsukitaX
+[00:29:55] [Server thread/INFO]: [AngelicaRD: Teleported AngelicaRD to AsukitaX]
+[00:30:06] [Server thread/INFO]: AngelicaRD issued server command: /home
+[00:30:42] [Server thread/INFO]: AngelicaRD issued server command: /tp AsukitaX
+[00:30:42] [Server thread/INFO]: [AngelicaRD: Teleported AngelicaRD to AsukitaX]
+[00:31:39] [Async Chat Thread - #243/INFO]: [Not Secure] <AsukitaX> Yo traje la madera spooky pa hacerlo lindo
+[00:31:56] [Async Chat Thread - #242/INFO]: [Not Secure] <AngelicaRD> amoo
+[00:32:37] [Async Chat Thread - #242/INFO]: [Not Secure] <AsukitaX> asi ta bien
+[00:32:41] [Async Chat Thread - #242/INFO]: [Not Secure] <AngelicaRD> a ok
+[00:32:43] [Async Chat Thread - #242/INFO]: [Not Secure] <AngelicaRD> djskdja
+[00:33:55] [Async Chat Thread - #245/INFO]: [Not Secure] <AsukitaX> mentira mejor llenemos este tb
+[00:35:57] [Async Chat Thread - #247/INFO]: [Not Secure] <AsukitaX> perame un seg
+[00:35:59] [Server thread/INFO]: AsukitaX lost connection: Disconnected
+[00:35:59] [Server thread/INFO]: AsukitaX left the game
+[00:36:31] [Server thread/INFO]: AsukitaX joined the game
+[00:36:31] [Server thread/INFO]: AsukitaX[/181.56.15.203:62800] logged in with entity id 245323 at ([world]-20910.705535647343, 71.0, -539.5308232681199)
+[00:37:10] [Server thread/INFO]: Rsalas joined the game
+[00:37:10] [Server thread/INFO]: Rsalas[/179.6.5.47:55469] logged in with entity id 245522 at ([world]-4.5, 70.0, 10.5)
+[00:38:15] [Server thread/INFO]: AsukitaX issued server command: /op Rsalas
+[00:38:15] [Server thread/INFO]: [AsukitaX: Made Rsalas a server operator]
+[00:38:17] [Server thread/INFO]: Rsalas was shot by Skeleton
+[00:38:27] [Async Chat Thread - #249/INFO]: [Not Secure] <AngelicaRD> JSKADJADJAKS
+[00:38:32] [Async Chat Thread - #248/INFO]: [Not Secure] <AngelicaRD> perdón
+[00:38:32] [Server thread/INFO]: Rsalas issued server command: /tp Rsalas
+[00:38:32] [Server thread/INFO]: [Rsalas: Teleported Rsalas to Rsalas]
+[00:38:48] [Async Chat Thread - #249/INFO]: [Not Secure] <Rsalas> perdon soy malo
+[00:38:51] [Async Chat Thread - #248/INFO]: [Not Secure] <AsukitaX> ya ilumine la zona
+[00:39:10] [Server thread/INFO]: Rsalas issued server command: /tp asu
+[00:39:16] [Server thread/INFO]: Rsalas issued server command: /tp AsukitaX
+[00:39:16] [Server thread/INFO]: [Rsalas: Teleported Rsalas to AsukitaX]
+[00:39:34] [Async Chat Thread - #248/INFO]: [Not Secure] <AsukitaX> ESA SKIN?
+[00:39:36] [Async Chat Thread - #248/INFO]: [Not Secure] <AsukitaX> KJDFHKJDHFKGJFD
+[00:39:42] [Async Chat Thread - #248/INFO]: [Not Secure] <Rsalas> me la compré
+[00:40:23] [Async Chat Thread - #250/INFO]: [Not Secure] <Rsalas> cómo se juega esto
+[00:41:12] [Server thread/INFO]: Rsalas has made the advancement [We Need to Go Deeper]
+[00:43:24] [Async Chat Thread - #252/INFO]: [Not Secure] <AsukitaX> este FLOP salio con solo
+[00:43:27] [Async Chat Thread - #251/INFO]: [Not Secure] <AsukitaX> 12 corazones,,
+[00:43:41] [Async Chat Thread - #251/INFO]: [Not Secure] <AngelicaRD> siii
+[00:43:54] [Async Chat Thread - #252/INFO]: [Not Secure] <AngelicaRD> cuántos tenían los papás?
+[00:44:00] [Async Chat Thread - #251/INFO]: [Not Secure] <AsukitaX> uno 13 y el otro 12
+[00:45:11] [Server thread/INFO]: Rsalas has made the advancement [Stone Age]
+[00:46:28] [Async Chat Thread - #254/INFO]: [Not Secure] <AngelicaRD> las tortugas crecen cuando no estamos en el chunk
+[00:46:35] [Async Chat Thread - #253/INFO]: [Not Secure] <AngelicaRD> y no botan nada...
+[00:46:39] [Async Chat Thread - #254/INFO]: [Not Secure] <AsukitaX> dios
+[00:46:44] [Async Chat Thread - #254/INFO]: [Not Secure] <AsukitaX> no nos podemos ir lit
+[00:47:40] [Server thread/INFO]: Rsalas walked into the danger zone due to AsukitaX
+[00:47:50] [Server thread/INFO]: Rsalas issued server command: /tp AsukitaX
+[00:47:50] [Server thread/INFO]: [Rsalas: Teleported Rsalas to AsukitaX]
+[00:47:53] [Async Chat Thread - #256/INFO]: [Not Secure] <AngelicaRD> Q
+[00:47:54] [Async Chat Thread - #255/INFO]: [Not Secure] <Rsalas> increible
+[00:47:56] [Async Chat Thread - #256/INFO]: [Not Secure] <AsukitaX> KSDHJFSJKHSFKJHSKDJF
+[00:48:00] [Async Chat Thread - #256/INFO]: [Not Secure] <Rsalas> recien llego y me acuchillan
+[00:48:20] [Async Chat Thread - #255/INFO]: [Not Secure] <AngelicaRD> hey creo que los ahogados están spawneando debajo ded nuestra playa
+[00:48:26] [Async Chat Thread - #255/INFO]: [Not Secure] <AngelicaRD> pq está oscuro
+[00:48:27] [Async Chat Thread - #256/INFO]: [Not Secure] <AsukitaX> QUE
+[00:48:50] [Async Chat Thread - #255/INFO]: [Not Secure] <AsukitaX> ya llevo glowstone
+[00:50:41] [Async Chat Thread - #258/INFO]: [Not Secure] <AngelicaRD> ahora si
+[00:54:07] [Async Chat Thread - #260/INFO]: [Not Secure] <AngelicaRD> q nombre le pongo al perro azul
+[00:54:15] [Async Chat Thread - #259/INFO]: [Not Secure] <AsukitaX> childe
+[00:54:32] [Async Chat Thread - #260/INFO]: [Not Secure] <AngelicaRD> excelente idea
+[00:54:36] [Async Chat Thread - #260/INFO]: [Not Secure] <AsukitaX> verdad
+[00:54:50] [Async Chat Thread - #259/INFO]: [Not Secure] <AsukitaX> para mi se llama asi desde q sobrevivio la raid
+[00:55:06] [Async Chat Thread - #259/INFO]: [Not Secure] <AngelicaRD> después de sobrevivir una de las batallas más difíciles de todo maincra
+[00:55:14] [Async Chat Thread - #260/INFO]: [Not Secure] <AngelicaRD> no va a salir nunca de la casa
+[00:55:19] [Async Chat Thread - #260/INFO]: [Not Secure] <AngelicaRD> pq no quiero q se muera
+[00:55:25] [Async Chat Thread - #259/INFO]: [Not Secure] <AsukitaX> so bbygirl
+[00:55:47] [Async Chat Thread - #260/INFO]: [Not Secure] <AsukitaX> NO
+[00:56:04] [Async Chat Thread - #259/INFO]: [Not Secure] <AngelicaRD> ahor a todos t quieren matar
+[00:56:08] [Async Chat Thread - #259/INFO]: [Not Secure] <AngelicaRD> andan rabiosos
+[00:56:20] [Async Chat Thread - #260/INFO]: [Not Secure] <AsukitaX> Si,,,,,,,
+[00:56:23] [Async Chat Thread - #259/INFO]: [Not Secure] <AngelicaRD> JDSKDJAK
+[00:56:30] [Async Chat Thread - #260/INFO]: [Not Secure] <AngelicaRD> espero q se les pase
+[00:56:37] [Async Chat Thread - #259/INFO]: [Not Secure] <AngelicaRD> están sentados
+[00:56:38] [Async Chat Thread - #260/INFO]: [Not Secure] <AsukitaX> voy a encantar
+[00:56:39] [Async Chat Thread - #259/INFO]: [Not Secure] <AngelicaRD> tranqui
+[01:01:58] [Async Chat Thread - #262/INFO]: [Not Secure] <AngelicaRD> cuál es tu idea?
+[01:02:05] [Async Chat Thread - #261/INFO]: [Not Secure] <AsukitaX> noc
+[01:02:12] [Async Chat Thread - #261/INFO]: [Not Secure] <AngelicaRD> jdkdjask
+[01:02:14] [Async Chat Thread - #261/INFO]: [Not Secure] <AsukitaX> yo fluyo
+[01:03:52] [Async Chat Thread - #264/INFO]: [Not Secure] <AngelicaRD> t quito ese árbol?
+[01:03:58] [Async Chat Thread - #263/INFO]: [Not Secure] <AsukitaX> no tranqui
+[01:04:02] [Async Chat Thread - #264/INFO]: [Not Secure] <AsukitaX> el es parte d
+[01:04:06] [Async Chat Thread - #264/INFO]: [Not Secure] <AngelicaRD> ok..
+[01:04:21] [Async Chat Thread - #264/INFO]: [Not Secure] <AsukitaX> confia en el proceso
+[01:04:28] [Async Chat Thread - #263/INFO]: [Not Secure] <AsukitaX> como vegetta777
+[01:06:32] [Server thread/INFO]: Rsalas has made the advancement [Best Friends Forever]
+[01:06:48] [Async Chat Thread - #266/INFO]: [Not Secure] <AsukitaX> a mimie
+[01:06:59] [Server thread/INFO]: Rsalas has made the advancement [Sweet Dreams]
+[01:07:02] [Async Chat Thread - #265/INFO]: [Not Secure] <Rsalas> zzz
+[01:08:01] [Server thread/INFO]: Rsalas has made the advancement [Suit Up]
+[01:10:33] [Server thread/INFO]: Rsalas issued server command: /SETHOME
+[01:10:37] [Async Chat Thread - #268/INFO]: [Not Secure] <Rsalas> sethome
+[01:10:43] [Server thread/INFO]: Rsalas issued server command: /sethome
+[01:10:45] [Async Chat Thread - #267/INFO]: [Not Secure] <AsukitaX> ./
+[01:14:19] [Server thread/WARN]: Cherry Boat (vehicle of Rsalas) moved wrongly! 0.2871272154407052
+[01:14:35] [Server thread/INFO]: AngelicaRD issued server command: /home
+[01:15:00] [Server thread/INFO]: AngelicaRD issued server command: /home
+[01:16:09] [Async Chat Thread - #270/INFO]: [Not Secure] <AsukitaX> hay peces globos aqui
+[01:16:54] [Server thread/INFO]: AngelicaRD issued server command: /tp AsukitaX
+[01:16:54] [Server thread/INFO]: [AngelicaRD: Teleported AngelicaRD to AsukitaX]
+[01:17:33] [Async Chat Thread - #272/INFO]: [Not Secure] <AngelicaRD> nos sirve de algo una caña de pesCAAAAAAAAAAAAA
+[01:17:42] [Async Chat Thread - #272/INFO]: [Not Secure] <AngelicaRD> DJSDJKDAJSKLDJAS
+[01:17:52] [Async Chat Thread - #271/INFO]: [Not Secure] <AngelicaRD> una caña de pescar con mending?
+[01:18:22] [Async Chat Thread - #272/INFO]: [Not Secure] <AsukitaX> eeeeeeeeeeeee
+[01:18:24] [Server thread/INFO]: AngelicaRD issued server command: /home
+[01:21:32] [Server thread/WARN]: Cherry Boat (vehicle of Rsalas) moved wrongly! 0.6815170644184295
+[01:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[01:27:42] [Server thread/INFO]: Rsalas issued server command: /home
+[01:29:06] [Server thread/INFO]: AngelicaRD issued server command: /home
+[01:42:10] [Async Chat Thread - #274/INFO]: [Not Secure] <AsukitaX> ya ventp
+[01:42:18] [Async Chat Thread - #274/INFO]: [Not Secure] <AngelicaRD> yo?
+[01:42:26] [Async Chat Thread - #273/INFO]: [Not Secure] <Rsalas> si
+[01:42:38] [Server thread/INFO]: AngelicaRD issued server command: /tp AsukitaX
+[01:42:38] [Server thread/INFO]: [AngelicaRD: Teleported AngelicaRD to AsukitaX]
+[01:43:43] [Server thread/INFO]: Rsalas has made the advancement [Monster Hunter]
+[01:45:06] [Server thread/INFO]: Rsalas issued server command: /home
+[01:59:41] [Async Chat Thread - #276/INFO]: [Not Secure] <AsukitaX> ei
+[02:00:11] [Async Chat Thread - #275/INFO]: [Not Secure] <AsukitaX> perdon estaba preparando comida
+[02:00:29] [Async Chat Thread - #276/INFO]: [Not Secure] <AngelicaRD> jdkjdsakd me quedé mirándote como 10 minutos........
+[02:00:35] [Async Chat Thread - #275/INFO]: [Not Secure] <AsukitaX> KLHDFGLKJDLFKGJFDLKGJDFLK NO AMOR
+[02:00:38] [Async Chat Thread - #275/INFO]: [Not Secure] <AsukitaX> MDJFGJDKFGHKFDHGKJFDHGKDHGKJDFHGKJDHFGJKDHGK
+[02:00:44] [Async Chat Thread - #275/INFO]: [Not Secure] <AsukitaX> PERO POR Q LE CREES A MI PRIMO
+[02:00:52] [Async Chat Thread - #276/INFO]: [Not Secure] <AngelicaRD> NO LO CONOZCO
+[02:00:58] [Async Chat Thread - #276/INFO]: [Not Secure] <AsukitaX> FAIR
+[02:00:58] [Async Chat Thread - #275/INFO]: [Not Secure] <AngelicaRD> CÓMO SÉ
+[02:03:06] [Async Chat Thread - #278/INFO]: [Not Secure] <AsukitaX> no le creas mas
+[02:03:17] [Async Chat Thread - #277/INFO]: [Not Secure] <AngelicaRD> ok
+[02:03:20] [Async Chat Thread - #278/INFO]: [Not Secure] <Rsalas> ok
+[02:13:17] [Server thread/INFO]: AngelicaRD issued server command: /home
+[02:19:27] [Server thread/INFO]: AngelicaRD issued server command: /home
+[02:19:56] [Server thread/INFO]: Rsalas was slain by Phantom
+[02:23:51] [Server thread/INFO]: Rsalas issued server command: /tp AsukitaX
+[02:23:51] [Server thread/INFO]: [Rsalas: Teleported Rsalas to AsukitaX]
+[02:39:23] [Server thread/INFO]: AngelicaRD issued server command: /home
+[02:40:39] [Async Chat Thread - #280/INFO]: [Not Secure] <AsukitaX> me traje
+[02:40:47] [Async Chat Thread - #279/INFO]: [Not Secure] <AsukitaX> un cerdo del nether
+[02:41:34] [Async Chat Thread - #280/INFO]: [Not Secure] <AsukitaX> q te salio en tus encantamientos
+[02:41:50] [Async Chat Thread - #280/INFO]: [Not Secure] <AngelicaRD> protection I
+[02:41:59] [Async Chat Thread - #279/INFO]: [Not Secure] <AngelicaRD> fire protection III
+[02:42:05] [Async Chat Thread - #280/INFO]: [Not Secure] <AngelicaRD> y otro q no me acuerdo
+[02:42:11] [Async Chat Thread - #279/INFO]: [Not Secure] <AngelicaRD> para el chest plate
+[02:42:44] [Async Chat Thread - #280/INFO]: [Not Secure] <AsukitaX> yo solo tengo encantado el chest plate
+[02:42:54] [Async Chat Thread - #280/INFO]: [Not Secure] <AsukitaX> y el arco pero ese me lo dropearon asi
+[02:45:37] [Server thread/INFO]: AngelicaRD lost connection: Disconnected
+[02:45:37] [Server thread/INFO]: AngelicaRD left the game
+[03:40:08] [Server thread/INFO]: [Not Secure] [Server] hola hay alguien???
+[03:40:11] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[03:40:14] [Server thread/INFO]: [Not Secure] [Server] ajskdjasd
+[03:40:23] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:40:23] [Server thread/INFO]: Saved the game
+[03:40:43] [Server thread/INFO]: Davopaco joined the game
+[03:40:43] [Server thread/INFO]: Davopaco[/190.70.4.120:61377] logged in with entity id 287715 at ([world]-20804.213273241596, -28.0, -648.4997722786868)
+[03:40:51] [Async Chat Thread - #282/INFO]: [Not Secure] <Davopaco> hola y adios
+[03:40:52] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[03:40:52] [Server thread/INFO]: Davopaco left the game
+[03:44:13] [Server thread/INFO]: AsukitaX lost connection: Disconnected
+[03:44:13] [Server thread/INFO]: AsukitaX left the game
+[03:56:31] [Server thread/INFO]: Rsalas was slain by Phantom
+[03:58:22] [Server thread/INFO]: Rsalas lost connection: Disconnected
+[03:58:22] [Server thread/INFO]: Rsalas left the game
+[06:46:34] [Server thread/INFO]: Davopaco joined the game
+[06:46:34] [Server thread/INFO]: Davopaco[/190.70.4.120:50798] logged in with entity id 289095 at ([world]-20803.710087656076, -27.0, -647.0662348182757)
+[06:46:42] [Server thread/INFO]: Davopaco issued server command: /home
+[06:47:27] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[06:47:27] [Server thread/INFO]: Davopaco left the game
