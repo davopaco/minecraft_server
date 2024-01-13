@@ -29,8 +29,10 @@
       "minecraft:old_growth_spruce_taiga": "2023-12-27 00:30:42 +0000",
       "minecraft:snowy_beach": "2023-12-27 00:20:14 +0000",
       "minecraft:bamboo_jungle": "2023-12-26 22:42:03 +0000",
+      "minecraft:windswept_savanna": "2024-01-12 22:58:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-12-28 20:38:45 +0000",
       "minecraft:badlands": "2023-12-26 19:17:39 +0000",
+      "minecraft:flower_forest": "2024-01-13 03:15:24 +0000",
       "minecraft:savanna_plateau": "2023-12-26 20:37:00 +0000",
       "minecraft:beach": "2023-12-26 18:59:00 +0000",
       "minecraft:dark_forest": "2023-12-26 18:59:17 +0000",
@@ -45,6 +47,7 @@
       "minecraft:old_growth_birch_forest": "2024-01-10 22:58:43 +0000",
       "minecraft:deep_dark": "2023-12-26 22:21:45 +0000",
       "minecraft:grove": "2023-12-27 00:24:53 +0000",
+      "minecraft:meadow": "2024-01-13 03:40:30 +0000",
       "minecraft:savanna": "2023-12-26 20:34:48 +0000",
       "minecraft:plains": "2023-12-26 20:59:53 +0000"
     },
@@ -601,27 +604,29 @@
       "minecraft:pillager": "2023-12-26 21:04:54 +0000",
       "minecraft:blaze": "2024-01-12 20:34:53 +0000",
       "minecraft:skeleton": "2023-12-26 06:03:09 +0000",
+      "minecraft:ravager": "2024-01-13 04:34:27 +0000",
+      "minecraft:ghast": "2024-01-12 21:18:35 +0000",
+      "minecraft:hoglin": "2024-01-10 01:49:00 +0000",
+      "minecraft:guardian": "2024-01-13 01:06:44 +0000",
+      "minecraft:vindicator": "2023-12-27 01:44:55 +0000",
+      "minecraft:magma_cube": "2024-01-12 19:44:35 +0000",
+      "minecraft:spider": "2023-12-26 05:33:28 +0000",
+      "minecraft:piglin_brute": "2024-01-10 01:43:15 +0000",
+      "minecraft:creeper": "2023-12-26 05:38:28 +0000",
+      "minecraft:slime": "2023-12-28 23:55:42 +0000",
+      "minecraft:evoker": "2024-01-07 02:31:44 +0000",
       "minecraft:phantom": "2023-12-27 00:57:06 +0000",
       "minecraft:zombified_piglin": "2023-12-30 00:53:53 +0000",
       "minecraft:witch": "2023-12-26 20:38:13 +0000",
       "minecraft:wither_skeleton": "2024-01-12 20:34:21 +0000",
-      "minecraft:ghast": "2024-01-12 21:18:35 +0000",
-      "minecraft:hoglin": "2024-01-10 01:49:00 +0000",
       "minecraft:cave_spider": "2023-12-26 23:08:12 +0000",
       "minecraft:piglin": "2024-01-10 01:43:01 +0000",
-      "minecraft:vindicator": "2023-12-27 01:44:55 +0000",
       "minecraft:enderman": "2023-12-26 07:19:38 +0000",
       "minecraft:stray": "2023-12-26 05:36:46 +0000",
-      "minecraft:magma_cube": "2024-01-12 19:44:35 +0000",
-      "minecraft:spider": "2023-12-26 05:33:28 +0000",
-      "minecraft:piglin_brute": "2024-01-10 01:43:15 +0000",
       "minecraft:vex": "2024-01-07 02:28:48 +0000",
       "minecraft:zombie": "2023-12-26 05:33:45 +0000",
-      "minecraft:creeper": "2023-12-26 05:38:28 +0000",
       "minecraft:drowned": "2023-12-27 00:45:51 +0000",
-      "minecraft:zombie_villager": "2023-12-26 05:35:00 +0000",
-      "minecraft:slime": "2023-12-28 23:55:42 +0000",
-      "minecraft:evoker": "2024-01-07 02:31:44 +0000"
+      "minecraft:zombie_villager": "2023-12-26 05:35:00 +0000"
     },
     "done": false
   },
@@ -2986,6 +2991,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:persian": "2024-01-08 23:14:39 +0000",
+      "minecraft:jellie": "2024-01-13 03:36:56 +0000",
       "minecraft:black": "2023-12-30 01:47:59 +0000"
     },
     "done": false
@@ -3896,6 +3902,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-01-12 22:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-01-12 22:25:02 +0000"
@@ -3908,9 +3920,273 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "summoned": "2024-01-12 22:19:27 +0000"
+      "has_slime_block": "2024-01-12 22:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-01-12 22:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-01-12 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-12 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-12 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-12 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-01-12 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-01-12 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-01-13 00:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-01-13 00:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-13 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-13 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-13 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-13 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-01-13 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-01-13 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-01-13 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-01-13 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-01-13 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-01-13 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-01-13 03:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-01-13 03:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-01-13 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-01-13 04:42:19 +0000"
     },
     "done": true
   },
