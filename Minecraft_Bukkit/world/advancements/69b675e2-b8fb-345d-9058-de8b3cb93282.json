@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2023-12-28 23:23:06 +0000",
+      "minecraft:snowy_slopes": "2024-01-14 02:01:58 +0000",
       "minecraft:old_growth_pine_taiga": "2023-12-28 23:22:10 +0000",
       "minecraft:mushroom_fields": "2023-12-29 03:17:47 +0000",
       "minecraft:forest": "2023-12-26 20:54:47 +0000",
@@ -20,6 +21,8 @@
       "minecraft:ocean": "2023-12-31 01:30:42 +0000",
       "minecraft:jungle": "2024-01-08 20:51:53 +0000",
       "minecraft:cherry_grove": "2023-12-30 04:23:59 +0000",
+      "minecraft:sunflower_plains": "2024-01-14 01:47:23 +0000",
+      "minecraft:birch_forest": "2024-01-13 19:53:55 +0000",
       "minecraft:snowy_beach": "2024-01-03 01:24:34 +0000",
       "minecraft:bamboo_jungle": "2024-01-08 20:44:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-12-28 23:32:51 +0000",
@@ -190,14 +193,17 @@
     "criteria": {
       "cooked_porkchop": "2023-12-26 20:10:35 +0000",
       "bread": "2023-12-28 23:14:20 +0000",
-      "cooked_chicken": "2023-12-28 23:34:36 +0000",
       "rotten_flesh": "2023-12-26 19:48:57 +0000",
-      "enchanted_golden_apple": "2024-01-12 03:17:09 +0000",
-      "potato": "2024-01-03 00:46:23 +0000",
       "sweet_berries": "2023-12-28 23:30:24 +0000",
       "baked_potato": "2023-12-26 20:34:29 +0000",
       "melon_slice": "2024-01-07 03:01:54 +0000",
-      "porkchop": "2024-01-10 04:44:44 +0000"
+      "porkchop": "2024-01-10 04:44:44 +0000",
+      "cooked_rabbit": "2024-01-13 20:38:44 +0000",
+      "cooked_chicken": "2023-12-28 23:34:36 +0000",
+      "enchanted_golden_apple": "2024-01-12 03:17:09 +0000",
+      "potato": "2024-01-03 00:46:23 +0000",
+      "cooked_cod": "2024-01-13 20:58:43 +0000",
+      "mushroom_stew": "2024-01-14 03:01:33 +0000"
     },
     "done": false
   },
@@ -3939,6 +3945,54 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2024-01-13 02:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-01-13 19:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-01-13 20:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-01-13 21:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-01-13 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-01-13 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-01-13 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-01-13 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-01-13 21:19:27 +0000"
     },
     "done": true
   },
