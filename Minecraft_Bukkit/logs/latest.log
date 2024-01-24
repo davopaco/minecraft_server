@@ -1,46 +1,421 @@
-[00:20:24] [Server thread/INFO]: Davopaco issued server command: /home
-[00:20:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
-[00:29:28] [Server thread/INFO]: Davopaco issued server command: /home
-[00:33:18] [Server thread/INFO]: AsukitaX joined the game
-[00:33:18] [Server thread/INFO]: AsukitaX[/181.56.15.203:49520] logged in with entity id 132053 at ([world]-20920.51627197143, 65.0, -505.8174735735406)
-[00:33:28] [Async Chat Thread - #45/INFO]: [Not Secure] <Davopaco> sofi
-[00:33:30] [Async Chat Thread - #44/INFO]: [Not Secure] <AsukitaX> hola
-[00:33:32] [Async Chat Thread - #44/INFO]: [Not Secure] <Davopaco> viste mi tridente?
-[00:33:37] [Async Chat Thread - #44/INFO]: [Not Secure] <AsukitaX> no
-[00:33:48] [Async Chat Thread - #45/INFO]: [Not Secure] <AsukitaX> q buscas
-[00:33:53] [Async Chat Thread - #44/INFO]: [Not Secure] <Davopaco> mi tridente
-[00:34:04] [Async Chat Thread - #45/INFO]: [Not Secure] <AsukitaX> no ni idea
-[00:34:11] [Async Chat Thread - #44/INFO]: [Not Secure] <AsukitaX> cuando organice los cofres no estaba nada
-[00:34:17] [Async Chat Thread - #45/INFO]: [Not Secure] <AsukitaX> creo q se exploto
-[00:34:21] [Async Chat Thread - #45/INFO]: [Not Secure] <AsukitaX> junto con hayi 1
-[00:34:24] [Async Chat Thread - #45/INFO]: [Not Secure] <Davopaco> mmm
-[00:34:31] [Async Chat Thread - #45/INFO]: [Not Secure] <Davopaco> es q recordaba haberlo guardado
-[00:34:34] [Server thread/INFO]: Sara joined the game
-[00:34:34] [Server thread/INFO]: Sara[/181.56.15.203:52928] logged in with entity id 132204 at ([world]-20905.545644429953, 70.0, -575.7722486783023)
-[00:34:44] [Async Chat Thread - #45/INFO]: [Not Secure] <AsukitaX> yo tb recordaba haber guardado mi pico,,,
-[00:34:48] [Async Chat Thread - #45/INFO]: [Not Secure] <Sara> HOLA
-[00:34:50] [Async Chat Thread - #44/INFO]: [Not Secure] <Davopaco> fue sara
-[00:34:52] [Async Chat Thread - #45/INFO]: [Not Secure] <Davopaco> yo lo sé
-[00:34:55] [Async Chat Thread - #45/INFO]: [Not Secure] <Davopaco> te apuesto
-[00:35:01] [Async Chat Thread - #45/INFO]: [Not Secure] <Sara> ?????????????????????????????????????????????????
-[00:35:07] [Async Chat Thread - #44/INFO]: [Not Secure] <Davopaco> ay
-[00:35:08] [Async Chat Thread - #44/INFO]: [Not Secure] <Davopaco> sara
-[00:35:09] [Async Chat Thread - #44/INFO]: [Not Secure] <Davopaco> hola
-[00:35:35] [Async Chat Thread - #45/INFO]: [Not Secure] <Sara> que paso con los cofre q estaban aqui aksjdkajsd
-[00:37:15] [Async Chat Thread - #47/INFO]: [Not Secure] <AsukitaX> te gusto la update de la zona de cofres
-[00:39:18] [Async Chat Thread - #49/INFO]: [Not Secure] <Davopaco> deberíamos matar el dragón
-[00:39:23] [Async Chat Thread - #49/INFO]: [Not Secure] <Davopaco> quiero elytra
-[00:39:39] [Async Chat Thread - #48/INFO]: [Not Secure] <AsukitaX> cuando este angelik hacemos reunion de server
-[00:39:42] [Async Chat Thread - #48/INFO]: [Not Secure] <Davopaco> vale
-[00:39:54] [Async Chat Thread - #48/INFO]: [Not Secure] <AsukitaX> dijo que volvia o dijo chao?
-[00:40:01] [Async Chat Thread - #49/INFO]: [Not Secure] <Davopaco> ninguna
-[00:40:03] [Async Chat Thread - #49/INFO]: [Not Secure] <Davopaco> se fue
-[00:41:16] [Async Chat Thread - #51/INFO]: [Not Secure] <AsukitaX> me retiro, vovlere despues
-[00:41:21] [Async Chat Thread - #51/INFO]: [Not Secure] <Davopaco> okay
-[00:41:23] [Async Chat Thread - #51/INFO]: [Not Secure] <AsukitaX> voy a terminar d instslar las cosas del pc
-[00:41:29] [Async Chat Thread - #51/INFO]: [Not Secure] <AsukitaX> queria ver si servia el user
-[00:41:42] [Server thread/INFO]: AsukitaX lost connection: Disconnected
-[00:41:42] [Server thread/INFO]: AsukitaX left the game
-[00:41:58] [Async Chat Thread - #51/INFO]: [Not Secure] <Sara> viste el establo
-[00:44:46] [Server thread/INFO]: Davopaco issued server command: /save-all
-[00:44:47] [Server thread/INFO]: [Davopaco: Saved the game]
+[00:00:57] [Async Chat Thread - #189/INFO]: [Not Secure] <AsukitaX> mañana q clase tenemos aparte de copetin
+[00:01:02] [Async Chat Thread - #189/INFO]: [Not Secure] <Davopaco> pi3
+[00:01:06] [Server thread/INFO]: AsukitaX issued server command: /fill -2493 70 -3768 -2511 70 -3778 minecraft:cherry_planks
+[00:01:06] [Server thread/INFO]: [AsukitaX: Successfully filled 209 block(s)]
+[00:01:09] [Async Chat Thread - #189/INFO]: [Not Secure] <AsukitaX> y q mas
+[00:01:10] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> y no sé q más
+[00:01:14] [Async Chat Thread - #188/INFO]: [Not Secure] <AsukitaX> m
+[00:01:46] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> tenemos infra
+[00:01:53] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> y ética
+[00:02:10] [Async Chat Thread - #189/INFO]: [Not Secure] <AngelicaRD> omg ustedes ven ética?
+[00:02:14] [Async Chat Thread - #188/INFO]: [Not Secure] <AsukitaX> si,,,,,,,,,,
+[00:02:16] [Async Chat Thread - #189/INFO]: [Not Secure] <Davopaco> lastimosamente
+[00:02:19] [Async Chat Thread - #188/INFO]: [Not Secure] <AngelicaRD> q les enseñan
+[00:02:22] [Async Chat Thread - #189/INFO]: [Not Secure] <AsukitaX> nose
+[00:02:23] [Async Chat Thread - #188/INFO]: [Not Secure] <AngelicaRD> no robar datos
+[00:02:29] [Async Chat Thread - #189/INFO]: [Not Secure] <AngelicaRD> no jaquiar
+[00:02:30] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> a ser cristianos
+[00:02:33] [Async Chat Thread - #188/INFO]: [Not Secure] <AsukitaX> lit
+[00:02:33] [Async Chat Thread - #189/INFO]: [Not Secure] <AngelicaRD> a menos q sea su trabajo
+[00:02:52] [Async Chat Thread - #188/INFO]: [Not Secure] <AsukitaX> ya vengo
+[00:02:53] [Async Chat Thread - #189/INFO]: [Not Secure] <AngelicaRD> yo este semestre tmb veo ética
+[00:02:58] [Async Chat Thread - #188/INFO]: [Not Secure] <AsukitaX> mañana te comentamos que vemos
+[00:02:59] [Async Chat Thread - #189/INFO]: [Not Secure] <Davopaco> flop
+[00:03:11] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> lo peor es q vemos dos éticas
+[00:03:13] [Async Chat Thread - #189/INFO]: [Not Secure] <Davopaco> as if
+[00:03:18] [Async Chat Thread - #188/INFO]: [Not Secure] <AngelicaRD> qqqqq
+[00:03:21] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> si
+[00:03:23] [Async Chat Thread - #189/INFO]: [Not Secure] <AsukitaX> pero solo una materia d redes
+[00:03:27] [Async Chat Thread - #189/INFO]: [Not Secure] <AsukitaX> *emoji d risa*
+[00:03:30] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> una es general la otra es profesional
+[00:03:32] [Async Chat Thread - #189/INFO]: [Not Secure] <AngelicaRD> JDKSJDAKDJASK
+[00:03:40] [Async Chat Thread - #188/INFO]: [Not Secure] <Davopaco> una bobada
+[00:03:42] [Async Chat Thread - #189/INFO]: [Not Secure] <Davopaco> relleno
+[00:03:43] [Async Chat Thread - #189/INFO]: [Not Secure] <Davopaco> ante todo
+[00:04:34] [Async Chat Thread - #188/INFO]: [Not Secure] <AsukitaX> si
+[00:04:36] [Async Chat Thread - #188/INFO]: [Not Secure] <AsukitaX> q dolor
+[00:04:41] [Async Chat Thread - #189/INFO]: [Not Secure] <AsukitaX> ojala no verla
+[00:05:46] [Async Chat Thread - #191/INFO]: [Not Secure] <Davopaco> mm
+[00:06:39] [Async Chat Thread - #191/INFO]: [Not Secure] <Davopaco> ay q bobo
+[00:06:43] [Async Chat Thread - #191/INFO]: [Not Secure] <Davopaco> yo picando arena
+[00:06:48] [Async Chat Thread - #192/INFO]: [Not Secure] <Davopaco> y hay como 123123 stacks
+[00:06:53] [Async Chat Thread - #191/INFO]: [Not Secure] <AngelicaRD> djkdjaskd
+[00:06:53] [Server thread/INFO]: Davopaco issued server command: /home
+[00:07:14] [Async Chat Thread - #192/INFO]: [Not Secure] <Davopaco> mmmm
+[00:07:24] [Async Chat Thread - #191/INFO]: [Not Secure] <AsukitaX> mmm
+[00:07:29] [Async Chat Thread - #192/INFO]: [Not Secure] <Davopaco> mmmmmm
+[00:07:33] [Async Chat Thread - #192/INFO]: [Not Secure] <Davopaco> y los hornos????
+[00:07:51] [Async Chat Thread - #192/INFO]: [Not Secure] <AsukitaX> aki hay
+[00:07:54] [Async Chat Thread - #191/INFO]: [Not Secure] <Davopaco> a
+[00:08:37] [Server thread/INFO]: Davopaco issued server command: /tp AsukitaX
+[00:08:38] [Server thread/INFO]: [Davopaco: Teleported Davopaco to AsukitaX]
+[00:10:31] [Server thread/INFO]: Davopaco issued server command: /tp AsukitaX
+[00:10:31] [Server thread/INFO]: [Davopaco: Teleported Davopaco to AsukitaX]
+[00:12:32] [Async Chat Thread - #194/INFO]: [Not Secure] <AsukitaX> cada vez q pongo el smart suffle m acuerdo cuando estabamos en el carro y vi tu playlist
+[00:12:38] [Async Chat Thread - #193/INFO]: [Not Secure] <AsukitaX> y tenias de collab a spotify
+[00:12:58] [Async Chat Thread - #194/INFO]: [Not Secure] <AsukitaX> y yo m quede ?
+[00:13:13] [Async Chat Thread - #193/INFO]: [Not Secure] <AsukitaX> y m dijiste q era una beta de spotify
+[00:13:24] [Async Chat Thread - #194/INFO]: [Not Secure] <Davopaco> ay siiiiii
+[00:13:27] [Async Chat Thread - #193/INFO]: [Not Secure] <Davopaco> y era horrible
+[00:13:28] [Async Chat Thread - #193/INFO]: [Not Secure] <Davopaco> dios
+[00:13:31] [Async Chat Thread - #193/INFO]: [Not Secure] <AsukitaX> y ahora te tengo rabia x ser de los beta testers de la porkeria del smart sufflew
+[00:13:34] [Async Chat Thread - #193/INFO]: [Not Secure] <Davopaco> ponía unas vainas tétricas
+[00:14:10] [Async Chat Thread - #194/INFO]: [Not Secure] <Davopaco> asmdkjaskdjalskdjalkjsdlkajsdlkajsdlkjasdlkjalksdjalkjsd
+[00:14:15] [Async Chat Thread - #194/INFO]: [Not Secure] <Davopaco> es q yo me acuerdo
+[00:14:17] [Async Chat Thread - #193/INFO]: [Not Secure] <Davopaco> y nooooooooooooo
+[00:14:31] [Async Chat Thread - #194/INFO]: [Not Secure] <AsukitaX> el smart shuffle
+[00:14:34] [Async Chat Thread - #193/INFO]: [Not Secure] <AsukitaX> CULPA D SANTIAGO
+[00:16:02] [Server thread/INFO]: Davopaco issued server command: /home
+[00:16:13] [Async Chat Thread - #196/INFO]: [Not Secure] <AsukitaX> Cuando vean la update de los cofres se le va a explotar la cabeza
+[00:16:16] [Async Chat Thread - #195/INFO]: [Not Secure] <AsukitaX> SANTIAGO
+[00:16:20] [Async Chat Thread - #196/INFO]: [Not Secure] <Davopaco> ay
+[00:16:21] [Async Chat Thread - #196/INFO]: [Not Secure] <AsukitaX> XQ TE HAVCES SPOILER
+[00:16:24] [Async Chat Thread - #196/INFO]: [Not Secure] <Davopaco> es q necesito cosas
+[00:16:27] [Async Chat Thread - #195/INFO]: [Not Secure] <Davopaco> mmmmmm
+[00:16:28] [Async Chat Thread - #195/INFO]: [Not Secure] <AsukitaX> lhfsdkjhfjsdhfuiHKJFHSDF
+[00:16:31] [Async Chat Thread - #195/INFO]: [Not Secure] <Davopaco> no veo
+[00:16:34] [Async Chat Thread - #196/INFO]: [Not Secure] <Davopaco> blind
+[00:17:24] [Server thread/INFO]: AsukitaX issued server command: /fill -2509 65 -3760
+[00:17:39] [Server thread/INFO]: AsukitaX issued server command: /fill -2509 65 -3760 -2511 65 -3767 minecraft:cherry_planks
+[00:17:39] [Server thread/INFO]: [AsukitaX: Successfully filled 24 block(s)]
+[00:18:20] [Async Chat Thread - #198/INFO]: [Not Secure] <AsukitaX> oigan xdon si hago todo rosado
+[00:18:33] [Async Chat Thread - #197/INFO]: [Not Secure] <AngelicaRD> esa es la estetic
+[00:18:36] [Server thread/INFO]: AsukitaX issued server command: /fill -2512 65 -3769
+[00:18:40] [Async Chat Thread - #198/INFO]: [Not Secure] <AngelicaRD> de toda la isla
+[00:18:50] [Server thread/INFO]: AsukitaX issued server command: /fill -2512 65 -3769 -2512 69 -3778 minecraft:cherry_planks
+[00:18:50] [Server thread/INFO]: [AsukitaX: Successfully filled 50 block(s)]
+[00:19:06] [Server thread/INFO]: AsukitaX issued server command: /fill -2512 65 -3769 -2512 69 -3778 minecraft:white_terracotta
+[00:19:06] [Server thread/INFO]: [AsukitaX: Successfully filled 50 block(s)]
+[00:19:25] [Async Chat Thread - #197/INFO]: [Not Secure] <AsukitaX> amo ese comando dios mio
+[00:20:21] [Server thread/INFO]: AsukitaX issued server command: /fill -2505 66 -3767
+[00:20:37] [Server thread/INFO]: AsukitaX issued server command: /fill -2505 66 -3767 -2495 69 -3768 minecraft:netherite_block
+[00:20:37] [Server thread/INFO]: [AsukitaX: Successfully filled 88 block(s)]
+[00:21:17] [Async Chat Thread - #200/INFO]: [Not Secure] <AsukitaX> slay
+[00:21:19] [Async Chat Thread - #199/INFO]: [Not Secure] <Davopaco> con netherite????????????????????????????????????????????
+[00:21:21] [Async Chat Thread - #200/INFO]: [Not Secure] <Davopaco> mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+[00:21:25] [Async Chat Thread - #199/INFO]: [Not Secure] <AsukitaX> KJGHAKJHFJKSDHFJKHSDJKFHSKDJHFJKSDHFJKSDHFUIWEWHFI
+[00:21:35] [Server thread/INFO]: AsukitaX issued server command: /fill -2505 66 -3767 -2495 69 -3768 minecraft:air
+[00:21:35] [Server thread/INFO]: [AsukitaX: Successfully filled 88 block(s)]
+[00:22:01] [Async Chat Thread - #200/INFO]: [Not Secure] <Davopaco> aviso q uno de los camellos anda en el nether
+[00:22:29] [Async Chat Thread - #199/INFO]: [Not Secure] <AngelicaRD> ay cómo se metió ese bobo?
+[00:22:35] [Async Chat Thread - #199/INFO]: [Not Secure] <AsukitaX> cual
+[00:22:38] [Server thread/INFO]: AsukitaX issued server command: /tp AngelicaRD
+[00:22:38] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to AngelicaRD]
+[00:22:52] [Async Chat Thread - #200/INFO]: [Not Secure] <AsukitaX> buen farmeito
+[00:22:53] [Server thread/INFO]: Davopaco issued server command: /home
+[00:22:56] [Server thread/INFO]: AsukitaX issued server command: /home
+[00:23:03] [Async Chat Thread - #199/INFO]: [Not Secure] <AngelicaRD> gracias
+[00:23:08] [Async Chat Thread - #200/INFO]: [Not Secure] <AngelicaRD> horas....
+[00:23:20] [Async Chat Thread - #199/INFO]: [Not Secure] <AsukitaX> danith
+[00:23:27] [Async Chat Thread - #200/INFO]: [Not Secure] <AsukitaX> vio a sergio con la mujer
+[00:23:29] [Async Chat Thread - #199/INFO]: [Not Secure] <AsukitaX> en fotos
+[00:23:32] [Async Chat Thread - #199/INFO]: [Not Secure] <Davopaco> ay qqqqq
+[00:23:33] [Async Chat Thread - #199/INFO]: [Not Secure] <Davopaco> naur
+[00:23:38] [Async Chat Thread - #199/INFO]: [Not Secure] <AsukitaX> naur x2
+[00:23:46] [Async Chat Thread - #200/INFO]: [Not Secure] <AngelicaRD> qqqqqqqqqqqqqqqqqq
+[00:24:08] [Async Chat Thread - #199/INFO]: [Not Secure] <AsukitaX> funada la sra montoya
+[00:24:54] [Server thread/INFO]: Davopaco issued server command: /tp AsukitaX
+[00:24:54] [Server thread/INFO]: [Davopaco: Teleported Davopaco to AsukitaX]
+[00:26:58] [Async Chat Thread - #202/INFO]: [Not Secure] <AsukitaX> Lo recogió y subió foto de la familia feliz.
+[00:27:00] [Async Chat Thread - #202/INFO]: [Not Secure] <AsukitaX> danith
+[00:27:01] [Async Chat Thread - #202/INFO]: [Not Secure] <AsukitaX> KJHEDJKGHDFIUGUI
+[00:29:50] [Async Chat Thread - #204/INFO]: [Not Secure] <AsukitaX> Esta expansion q ando haciendo da ultra vibes de veinteañero gringo q se muda al sotano de los papas y lo vuelve apartaestudio
+[00:30:13] [Async Chat Thread - #203/INFO]: [Not Secure] <AngelicaRD> tiene un tv, un colchón y una play?
+[00:30:19] [Async Chat Thread - #204/INFO]: [Not Secure] <AsukitaX> casi
+[00:30:26] [Async Chat Thread - #203/INFO]: [Not Secure] <AsukitaX> un horno un cofre y una antorcha
+[00:30:36] [Async Chat Thread - #204/INFO]: [Not Secure] <AngelicaRD> bonus si hay silla gamer pero no tiene sábanas
+[00:31:31] [Server thread/INFO]: AsukitaX issued server command: /fill -2510 66 -3780
+[00:31:48] [Server thread/INFO]: Davopaco issued server command: /time set 0
+[00:31:48] [Server thread/INFO]: [Davopaco: Set the time to 0]
+[00:31:57] [Server thread/INFO]: AsukitaX issued server command: /fill -2510 66 -3780 -2495 68 -3780 minecraft:white_terracotta
+[00:31:57] [Server thread/INFO]: [AsukitaX: Successfully filled 48 block(s)]
+[00:32:50] [Server thread/INFO]: AsukitaX issued server command: /tp Davopaco
+[00:32:50] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to Davopaco]
+[00:33:26] [Server thread/INFO]: AsukitaX issued server command: /home
+[00:33:57] [Async Chat Thread - #206/INFO]: [Not Secure] <AngelicaRD> mientras mato creepers estoy dando opiniones de mlp en instagram
+[00:34:08] [Async Chat Thread - #205/INFO]: [Not Secure] <Davopaco> de whoooooo
+[00:34:11] [Async Chat Thread - #205/INFO]: [Not Secure] <AsukitaX> y cuales son tus opiniones
+[00:34:15] [Async Chat Thread - #206/INFO]: [Not Secure] <AngelicaRD> my little pony
+[00:34:18] [Async Chat Thread - #206/INFO]: [Not Secure] <Davopaco> ahhhhhhh
+[00:34:33] [Async Chat Thread - #205/INFO]: [Not Secure] <AngelicaRD> mis opiniones están el girlbossification
+[00:34:37] [Async Chat Thread - #206/INFO]: [Not Secure] <AngelicaRD> jdsakldjaskd
+[00:35:14] [Async Chat Thread - #205/INFO]: [Not Secure] <AsukitaX> yo no c nada de mlp pero
+[00:37:01] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> siempre pense q necesitaba mas reconocimiento las ponys fresas xq i mean son PONYS tienen q ser expensive
+[00:37:02] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> y
+[00:37:10] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> high class
+[00:37:30] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> pero solo la rarity era asi y siento q todas debian tener esa base en su personalidad
+[00:38:20] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> clasista
+[00:38:27] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> YO?
+[00:38:32] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> JDSKADJASKDJASKDAL
+[00:38:40] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> TODAS ERAN BESTIEEEEEEEEEEES
+[00:38:44] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> ESO ES LO IMPORTANTEEEE
+[00:38:52] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> APPLEJACK ERA GRANJERA
+[00:39:01] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> LE ESTÁS DICIENDO Q ACTÚE COMO RARIRTY
+[00:39:05] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> JDSKDJASKDJAKSDJAKD
+[00:39:08] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> q tenga mas clase
+[00:39:21] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> PERO
+[00:39:52] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> nada
+[00:40:15] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> ves x eos no me veia mlp pero si las winx y barbie y my scene y bratz
+[00:40:17] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> KJHDSFHGJKDSHGEFGJKDHGKJFD
+[00:40:23] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> jdskjdskdjas
+[00:40:45] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> igual mi fav era rarity y varias de las otras no me gustaban precisamente pq no eran high class
+[00:40:50] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> VES
+[00:40:58] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> yo soy igual
+[00:41:00] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> JDSKDJASKLDJASD
+[00:41:09] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> pa q te haces la justiciera si compartimos la misma opinion,,,
+[00:41:18] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> para molestar
+[00:41:29] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> no valido
+[00:41:48] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> pero es mi pasatiempo favorito :(
+[00:42:08] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> molestame con otras cosas pero con algo tan obvio q compartes mi opinion
+[00:42:13] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> no funciona,,,
+[00:42:29] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> no molestarTE
+[00:42:32] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> molestar
+[00:42:40] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> o sea no soy especial? ok
+[00:42:44] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> JDKDJAKDJASKDA
+[00:42:46] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> no
+[00:42:50] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> no discrimino
+[00:43:00] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> hace 10 min m dijiste clasista
+[00:43:14] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> viva tirar leña al fuego
+[00:43:43] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> fabiana es igual,,,
+[00:43:49] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> ayer le dijo a santiago
+[00:43:56] [Server thread/INFO]: Davopaco issued server command: /time set 0
+[00:43:56] [Server thread/INFO]: [Davopaco: Set the time to 0]
+[00:43:59] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> q YO DIJE Q EL TENIA OJOS DE IGUANA
+[00:44:04] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> Y YO
+[00:44:05] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> JDSKDJKSDJAKSDJASKDA
+[00:44:06] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> ?=#?%="?#%$
+[00:44:09] [Async Chat Thread - #208/INFO]: [Not Secure] <Davopaco> FABIANA SIEMPRE ES ASÍ
+[00:44:11] [Async Chat Thread - #207/INFO]: [Not Secure] <Davopaco> Y YO
+[00:44:13] [Async Chat Thread - #208/INFO]: [Not Secure] <Davopaco> TIESO
+[00:44:15] [Async Chat Thread - #207/INFO]: [Not Secure] <AngelicaRD> Q ICON
+[00:44:26] [Async Chat Thread - #207/INFO]: [Not Secure] <AsukitaX> LO PEOR ES Q ESTABAMOS DE FRENTE Y SANTIAGO LE CREYO
+[00:44:35] [Async Chat Thread - #208/INFO]: [Not Secure] <AsukitaX> CUANDO EL CLARAMENTE PODIA ESCUCHAR LO Q YO ESTABA DICIENDO
+[00:47:57] [Async Chat Thread - #210/INFO]: [Not Secure] <AsukitaX> bueno hay 30 cofres nuevos
+[00:48:40] [Async Chat Thread - #209/INFO]: [Not Secure] <AngelicaRD> gracias
+[00:54:58] [Server thread/INFO]: Davopaco issued server command: /time set 0
+[00:54:58] [Server thread/INFO]: [Davopaco: Set the time to 0]
+[00:56:36] [Async Chat Thread - #212/INFO]: [Not Secure] <AsukitaX> bueno ya esta lista la remodelacion, solo falta decoracion
+[01:04:56] [Async Chat Thread - #214/INFO]: [Not Secure] <AsukitaX> bueno hice una decoracion de piso un poco extraña a quien no le guste lo baneo
+[01:07:10] [Server thread/INFO]: Davopaco issued server command: /time set 0
+[01:07:10] [Server thread/INFO]: [Davopaco: Set the time to 0]
+[01:10:39] [Async Chat Thread - #216/INFO]: [Not Secure] <Davopaco> vuelvo
+[01:10:40] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[01:10:40] [Server thread/INFO]: Davopaco left the game
+[01:14:58] [Server thread/INFO]: Davopaco joined the game
+[01:14:58] [Server thread/INFO]: Davopaco[/190.70.4.120:63154] logged in with entity id 311993 at ([world]-2561.699999988079, 74.0, -3933.4152215094828)
+[01:15:01] [Async Chat Thread - #218/INFO]: [Not Secure] <Davopaco> volví
+[01:15:04] [Async Chat Thread - #217/INFO]: [Not Secure] <AsukitaX> hola
+[01:15:06] [Async Chat Thread - #218/INFO]: [Not Secure] <Davopaco> es q estaba comiendo
+[01:15:07] [Async Chat Thread - #217/INFO]: [Not Secure] <AngelicaRD> hola
+[01:15:22] [Async Chat Thread - #217/INFO]: [Not Secure] <AsukitaX> vengan
+[01:15:23] [Async Chat Thread - #218/INFO]: [Not Secure] <AngelicaRD> pq comen tan tarde....................
+[01:15:29] [Async Chat Thread - #217/INFO]: [Not Secure] <AsukitaX> aun no acabo
+[01:15:29] [Async Chat Thread - #218/INFO]: [Not Secure] <Davopaco> mmmmmmmmmmmmmmmmm
+[01:15:31] [Async Chat Thread - #217/INFO]: [Not Secure] <Davopaco> ehhh
+[01:15:41] [Async Chat Thread - #217/INFO]: [Not Secure] <AsukitaX> pero necesito q me digan si les esta gustando
+[01:15:48] [Server thread/INFO]: AngelicaRD issued server command: /tp AsukitaX
+[01:15:48] [Server thread/INFO]: [AngelicaRD: Teleported AngelicaRD to AsukitaX]
+[01:15:50] [Async Chat Thread - #218/INFO]: [Not Secure] <AsukitaX> btw angelik no criticar
+[01:15:57] [Async Chat Thread - #217/INFO]: [Not Secure] <AngelicaRD> OMG
+[01:16:05] [Async Chat Thread - #218/INFO]: [Not Secure] <AngelicaRD> NO HAY CRÍTICAS
+[01:16:09] [Async Chat Thread - #217/INFO]: [Not Secure] <AngelicaRD> ESTÁ MUY LINDO
+[01:16:18] [Async Chat Thread - #217/INFO]: [Not Secure] <AsukitaX> ay de vd gravias el piso m tenia mal..
+[01:16:20] [Async Chat Thread - #217/INFO]: [Not Secure] <AsukitaX> xq no sabia
+[01:16:21] [Async Chat Thread - #217/INFO]: [Not Secure] <Davopaco> hola
+[01:16:30] [Async Chat Thread - #218/INFO]: [Not Secure] <AngelicaRD> algún día tendremos 1 cofre x bloque
+[01:16:33] [Async Chat Thread - #217/INFO]: [Not Secure] <AngelicaRD> mi sueño
+[01:16:39] [Async Chat Thread - #218/INFO]: [Not Secure] <Davopaco> total
+[01:17:27] [Async Chat Thread - #217/INFO]: [Not Secure] <AngelicaRD> 10/10
+[01:17:31] [Async Chat Thread - #218/INFO]: [Not Secure] <AsukitaX> me faltan algunas cositas pero m alegro q les guste
+[01:17:57] [Server thread/INFO]: [@: Teleported AngelicaRD to -2501.500000, 253.000000, -3518.500000]
+[01:22:50] [Async Chat Thread - #220/INFO]: [Not Secure] <Davopaco> bueno
+[01:22:57] [Async Chat Thread - #219/INFO]: [Not Secure] <Davopaco> la granja está oficialmente terminada
+[01:23:08] [Async Chat Thread - #220/INFO]: [Not Secure] <AngelicaRD> wuuuuuuuuuuu
+[01:23:17] [Async Chat Thread - #219/INFO]: [Not Secure] <AsukitaX> aberla
+[01:23:22] [Server thread/INFO]: AsukitaX issued server command: /tp Davopaco
+[01:23:22] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to Davopaco]
+[01:23:24] [Server thread/INFO]: AngelicaRD issued server command: /tp Davopaco
+[01:23:24] [Server thread/INFO]: [AngelicaRD: Teleported AngelicaRD to Davopaco]
+[01:23:29] [Async Chat Thread - #220/INFO]: [Not Secure] <Davopaco> angelik
+[01:23:41] [Async Chat Thread - #219/INFO]: [Not Secure] <Davopaco> mis shulkers xfis
+[01:23:42] [Async Chat Thread - #220/INFO]: [Not Secure] <Davopaco> jaksdj
+[01:23:49] [Async Chat Thread - #219/INFO]: [Not Secure] <AngelicaRD> q
+[01:23:54] [Async Chat Thread - #220/INFO]: [Not Secure] <AngelicaRD> AA
+[01:24:03] [Async Chat Thread - #219/INFO]: [Not Secure] <Davopaco> gracias
+[01:24:05] [Async Chat Thread - #219/INFO]: [Not Secure] <AngelicaRD> DJKDJAD
+[01:24:21] [Async Chat Thread - #219/INFO]: [Not Secure] <AsukitaX> flop no hay
+[01:24:22] [Async Chat Thread - #220/INFO]: [Not Secure] <Davopaco> toca decorarla eso sí
+[01:24:27] [Async Chat Thread - #219/INFO]: [Not Secure] <Davopaco> mmmmmmmmmmmmmmmmmmmmmmmmm
+[01:24:31] [Async Chat Thread - #219/INFO]: [Not Secure] <Davopaco> q esperabas????
+[01:24:40] [Async Chat Thread - #220/INFO]: [Not Secure] <AsukitaX> 278 stacks¿¿
+[01:25:42] [Async Chat Thread - #222/INFO]: [Not Secure] <AsukitaX> evitemos incidentes vacunos
+[01:25:45] [Async Chat Thread - #222/INFO]: [Not Secure] <AsukitaX> #niunamas
+[01:25:49] [Async Chat Thread - #221/INFO]: [Not Secure] <Davopaco> true
+[01:25:54] [Async Chat Thread - #222/INFO]: [Not Secure] <AngelicaRD> pobres vacas...
+[01:26:00] [Async Chat Thread - #221/INFO]: [Not Secure] <AngelicaRD> siempre son ellas
+[01:26:18] [Async Chat Thread - #222/INFO]: [Not Secure] <Davopaco> ojito q hay
+[01:26:22] [Async Chat Thread - #221/INFO]: [Not Secure] <Davopaco> 14 sugar canes
+[01:26:25] [Async Chat Thread - #221/INFO]: [Not Secure] <Davopaco> WOSSSSSSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHH
+[01:26:40] [Server thread/INFO]: [@: Teleported AngelicaRD to -2501.500000, 253.000000, -3518.500000]
+[01:26:44] [Async Chat Thread - #221/INFO]: [Not Secure] <AsukitaX> #prosperidad
+[01:27:02] [Async Chat Thread - #222/INFO]: [Not Secure] <AsukitaX> #homeoffice
+[01:27:44] [Async Chat Thread - #222/INFO]: [Not Secure] <Davopaco> AY CUTE
+[01:30:38] [Async Chat Thread - #224/INFO]: [Not Secure] <Davopaco> sabes?
+[01:30:51] [Async Chat Thread - #223/INFO]: [Not Secure] <Davopaco> me provoca poner como una especie de cabaña alrededor
+[01:30:54] [Async Chat Thread - #223/INFO]: [Not Secure] <Davopaco> así como está todo
+[01:31:01] [Async Chat Thread - #224/INFO]: [Not Secure] <Davopaco> y queda cottage core
+[01:31:06] [Async Chat Thread - #223/INFO]: [Not Secure] <AsukitaX> siiiiiiiii
+[01:31:48] [Async Chat Thread - #224/INFO]: [Not Secure] <AsukitaX> amo a arca,,
+[01:31:52] [Async Chat Thread - #223/INFO]: [Not Secure] <Davopaco> ay yo
+[01:33:38] [Server thread/INFO]: ElSaltaMontes joined the game
+[01:33:38] [Server thread/INFO]: ElSaltaMontes[/181.56.15.203:53110] logged in with entity id 317141 at ([world_the_end]1976.4952065457162, 87.81103686508992, 8.506596439816258)
+[01:33:44] [Async Chat Thread - #226/INFO]: [Not Secure] <Davopaco> mmmmm
+[01:33:46] [Server thread/INFO]: ElSaltaMontes was slain by Enderman
+[01:33:48] [Async Chat Thread - #226/INFO]: [Not Secure] <Davopaco> ah
+[01:33:51] [Async Chat Thread - #225/INFO]: [Not Secure] <AsukitaX> LKSJDFGLSDJLK
+[01:33:53] [Async Chat Thread - #226/INFO]: [Not Secure] <Davopaco> sofi
+[01:33:54] [Async Chat Thread - #225/INFO]: [Not Secure] <AngelicaRD> a
+[01:33:59] [Async Chat Thread - #225/INFO]: [Not Secure] <Davopaco> a
+[01:34:01] [Async Chat Thread - #226/INFO]: [Not Secure] <Davopaco> uy
+[01:34:02] [Async Chat Thread - #225/INFO]: [Not Secure] <AsukitaX> Dime
+[01:34:06] [Async Chat Thread - #226/INFO]: [Not Secure] <Davopaco> no me cargaba el bloque
+[01:34:07] [Async Chat Thread - #226/INFO]: [Not Secure] <Davopaco> nada
+[01:34:09] [Server thread/INFO]: AsukitaX issued server command: /tp ElSaltaMontes
+[01:34:09] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to ElSaltaMontes]
+[01:34:28] [Server thread/INFO]: ElSaltaMontes issued server command: /tp AsukitaX
+[01:34:28] [Server thread/INFO]: [ElSaltaMontes: Teleported ElSaltaMontes to AsukitaX]
+[01:34:34] [Server thread/INFO]: AsukitaX issued server command: /tp Davopaco
+[01:34:34] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to Davopaco]
+[01:34:41] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[01:34:50] [Async Chat Thread - #226/INFO]: [Not Secure] <ElSaltaMontes> ola
+[01:34:56] [Async Chat Thread - #226/INFO]: [Not Secure] <AsukitaX> hola
+[01:34:59] [Async Chat Thread - #225/INFO]: [Not Secure] <AngelicaRD> hola
+[01:35:01] [Async Chat Thread - #226/INFO]: [Not Secure] <ElSaltaMontes> estoy dispuesto a hacer cualquier cosa
+[01:35:11] [Async Chat Thread - #226/INFO]: [Not Secure] <ElSaltaMontes> ahorita tengo un trauma con el fnaf
+[01:38:50] [Server thread/INFO]: AngelicaRD issued server command: /home
+[01:39:24] [Server thread/INFO]: [@: Teleported AngelicaRD to -2501.500000, 253.000000, -3518.500000]
+[01:41:19] [Async Chat Thread - #228/INFO]: [Not Secure] <ElSaltaMontes> como q esta concentrado el servidor
+[01:43:59] [Async Chat Thread - #230/INFO]: [Not Secure] <AsukitaX> SANTI
+[01:44:35] [Server thread/INFO]: AsukitaX issued server command: /tp Davopaco
+[01:44:35] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to Davopaco]
+[01:44:42] [Server thread/INFO]: AsukitaX issued server command: /home
+[01:44:54] [Server thread/INFO]: AsukitaX issued server command: /gamemode survival
+[01:44:54] [Server thread/INFO]: [AsukitaX: Set own game mode to Survival Mode]
+[01:48:37] [Server thread/INFO]: AsukitaX issued server command: /tp ElSaltaMontes
+[01:48:37] [Server thread/INFO]: [AsukitaX: Teleported AsukitaX to ElSaltaMontes]
+[01:48:57] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[01:51:11] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[01:59:27] [Async Chat Thread - #232/INFO]: [Not Secure] <Davopaco> AY Q
+[01:59:30] [Async Chat Thread - #231/INFO]: [Not Secure] <Davopaco> q pasó
+[01:59:30] [Async Chat Thread - #232/INFO]: [Not Secure] <AsukitaX> q paso
+[01:59:33] [Async Chat Thread - #231/INFO]: [Not Secure] <ElSaltaMontes> q
+[01:59:35] [Async Chat Thread - #231/INFO]: [Not Secure] <AsukitaX> que
+[02:00:04] [Server thread/INFO]: [@: Teleported Davopaco to -2501.500000, 253.000000, -3518.500000]
+[02:00:08] [Server thread/INFO]: Davopaco issued server command: /home
+[02:00:30] [Async Chat Thread - #232/INFO]: [Not Secure] <Davopaco> ay cute
+[02:00:33] [Async Chat Thread - #231/INFO]: [Not Secure] <Davopaco> me encanta
+[02:00:45] [Async Chat Thread - #232/INFO]: [Not Secure] <AsukitaX> yay
+[02:00:49] [Async Chat Thread - #232/INFO]: [Not Secure] <Davopaco> toma
+[02:00:55] [Server thread/INFO]: Davopaco issued server command: /tp AngelicaRD
+[02:00:55] [Server thread/INFO]: [Davopaco: Teleported Davopaco to AngelicaRD]
+[02:00:57] [Async Chat Thread - #231/INFO]: [Not Secure] <Davopaco> toma
+[02:01:01] [Server thread/INFO]: Davopaco issued server command: /home
+[02:02:01] [Server thread/INFO]: AngelicaRD issued server command: /home
+[02:02:56] [Async Chat Thread - #234/INFO]: [Not Secure] <AngelicaRD> bno quedó casi lleno el cofre de pólvora
+[02:02:59] [Async Chat Thread - #233/INFO]: [Not Secure] <AngelicaRD> adiós
+[02:03:03] [Async Chat Thread - #233/INFO]: [Not Secure] <AsukitaX> byeeeeeeeeee
+[02:03:04] [Server thread/INFO]: AngelicaRD lost connection: Disconnected
+[02:03:04] [Server thread/INFO]: AngelicaRD left the game
+[02:04:34] [Async Chat Thread - #236/INFO]: [Not Secure] <ElSaltaMontes> ZZZZZ
+[02:04:41] [Server thread/INFO]: ElSaltaMontes issued server command: /HOME
+[02:04:45] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:05:06] [Async Chat Thread - #235/INFO]: [Not Secure] <ElSaltaMontes> santiago duelme plz
+[02:06:30] [Async Chat Thread - #238/INFO]: [Not Secure] <ElSaltaMontes> santiago
+[02:06:50] [Async Chat Thread - #237/INFO]: [Not Secure] <ElSaltaMontes> se donde vives
+[02:07:03] [Async Chat Thread - #238/INFO]: [Not Secure] <ElSaltaMontes> y tengo una pistola de hello kitty
+[02:07:09] [Async Chat Thread - #237/INFO]: [Not Secure] <ElSaltaMontes> tomalo como una amenaza
+[02:07:14] [Async Chat Thread - #238/INFO]: [Not Secure] <AsukitaX> te juro q yo no le dije q dijera eso
+[02:07:42] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
+[02:19:01] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:21:38] [Server thread/INFO]: [@: Teleported Davopaco to -21086.500000, 162.000000, -732.500000]
+[02:21:41] [Server thread/INFO]: Davopaco issued server command: /home
+[02:22:55] [Async Chat Thread - #240/INFO]: [Not Secure] <AsukitaX> q paso
+[02:23:06] [Async Chat Thread - #239/INFO]: [Not Secure] <Davopaco> si tienes las elytra o el chestplate en la hotbar te la puedes equipar con click
+[02:23:26] [Async Chat Thread - #240/INFO]: [Not Secure] <AsukitaX> ps si no..?
+[02:23:32] [Async Chat Thread - #239/INFO]: [Not Secure] <AsukitaX> LJFDHJGHDJKFHGKJDF
+[02:23:48] [Async Chat Thread - #239/INFO]: [Not Secure] <Davopaco> asjkdjasd es q yo no tenía idea q eso se podía cuando andabas equipado
+[02:23:53] [Async Chat Thread - #240/INFO]: [Not Secure] <AsukitaX> jsdhfgsgfjhsKHSDFHSKFHKS
+[02:23:59] [Async Chat Thread - #239/INFO]: [Not Secure] <AsukitaX> AY NAUR
+[02:24:12] [Async Chat Thread - #240/INFO]: [Not Secure] <Davopaco> osea desequipado normal ajá
+[02:24:18] [Async Chat Thread - #239/INFO]: [Not Secure] <Davopaco> pero equipado quedé loco
+[02:24:31] [Async Chat Thread - #239/INFO]: [Not Secure] <AsukitaX> C puede con todo
+[02:24:42] [Async Chat Thread - #240/INFO]: [Not Secure] <Davopaco> osea sisi
+[02:24:44] [Async Chat Thread - #240/INFO]: [Not Secure] <Davopaco> pero ajá
+[02:24:47] [Async Chat Thread - #240/INFO]: [Not Secure] <Davopaco> bueno si
+[02:24:48] [Async Chat Thread - #239/INFO]: [Not Secure] <Davopaco> jasksdjakjsdkajsd
+[02:24:49] [Async Chat Thread - #240/INFO]: [Not Secure] <Davopaco> omg
+[02:26:33] [Server thread/INFO]: Davopaco issued server command: /seed
+[02:28:38] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
+[02:28:38] [Server thread/WARN]: Davopaco moved too quickly! 4.8932498406812215,0.0,-8.90540468303368
+[02:28:57] [Async Chat Thread - #242/INFO]: [Not Secure] <ElSaltaMontes> DAVO
+[02:29:12] [Async Chat Thread - #241/INFO]: [Not Secure] <Davopaco> q pasó??????????
+[02:29:16] [Async Chat Thread - #242/INFO]: [Not Secure] <ElSaltaMontes> a ya
+[02:29:21] [Async Chat Thread - #241/INFO]: [Not Secure] <ElSaltaMontes> era pa ver si estabas afk
+[02:29:24] [Async Chat Thread - #241/INFO]: [Not Secure] <Davopaco> aaaaaaaaaaaa
+[02:29:25] [Async Chat Thread - #242/INFO]: [Not Secure] <Davopaco> ajskdjakjd
+[02:29:30] [Async Chat Thread - #241/INFO]: [Not Secure] <Davopaco> ando viendo si consigo cabezas
+[02:29:34] [Async Chat Thread - #242/INFO]: [Not Secure] <ElSaltaMontes> estoy buscando cualquer cosa
+[02:29:39] [Async Chat Thread - #241/INFO]: [Not Secure] <ElSaltaMontes> cabezas de q?
+[02:29:42] [Async Chat Thread - #242/INFO]: [Not Secure] <Davopaco> wither
+[02:29:55] [Async Chat Thread - #241/INFO]: [Not Secure] <ElSaltaMontes> aweno
+[02:30:08] [Async Chat Thread - #241/INFO]: [Not Secure] <ElSaltaMontes> yo estoy buscando una mansion por aca
+[02:33:31] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:33:49] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
+[02:34:23] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:34:41] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
+[02:34:54] [Async Chat Thread - #244/INFO]: [Not Secure] <AsukitaX> GGGGGGGG
+[02:35:00] [Async Chat Thread - #243/INFO]: [Not Secure] <Davopaco> qqqq
+[02:35:01] [Async Chat Thread - #244/INFO]: [Not Secure] <AsukitaX> adsa
+[02:35:08] [Async Chat Thread - #244/INFO]: [Not Secure] <AsukitaX> nda era pa ver el lag
+[02:35:11] [Async Chat Thread - #244/INFO]: [Not Secure] <Davopaco> aa
+[02:36:18] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:37:13] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
+[02:37:39] [Async Chat Thread - #246/INFO]: [Not Secure] <AsukitaX> YA REORGANICE TODOS LOS COFRES
+[02:40:26] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:42:28] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
+[02:43:27] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:44:34] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
+[02:44:56] [Server thread/INFO]: ElSaltaMontes issued server command: /home
+[02:46:57] [Server thread/INFO]: AsukitaX issued server command: /seed
+[02:47:44] [Server thread/INFO]: AsukitaX lost connection: Disconnected
+[02:47:44] [Server thread/INFO]: AsukitaX left the game
+[02:47:50] [Server thread/INFO]: ElSaltaMontes lost connection: Disconnected
+[02:47:50] [Server thread/INFO]: ElSaltaMontes left the game
+[02:50:47] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[02:50:47] [Server thread/INFO]: Davopaco left the game
+[13:50:34] [Server thread/ERROR]: Could not save data net.minecraft.world.entity.raid.PersistentRaid@1e0efb15
+java.io.IOException: No space left on device
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:?]
+	at sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:62) ~[?:?]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:97) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:67) ~[?:?]
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:288) ~[?:?]
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:74) ~[?:?]
+	at java.nio.channels.Channels.writeFully(Channels.java:96) ~[?:?]
+	at java.nio.channels.Channels$1.write(Channels.java:171) ~[?:?]
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81) ~[?:?]
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142) ~[?:?]
+	at java.io.FilterOutputStream.close(FilterOutputStream.java:182) ~[?:?]
+	at java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:249) ~[?:?]
+	at java.io.FilterOutputStream.close(FilterOutputStream.java:191) ~[?:?]
+	at java.io.FilterOutputStream.close(FilterOutputStream.java:191) ~[?:?]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:194) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:146) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
+	at net.minecraft.world.level.saveddata.PersistentBase.a(SourceFile:45) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
+	at net.minecraft.world.level.storage.WorldPersistentData.b(SourceFile:122) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.WorldPersistentData.a(SourceFile:120) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
+	at net.minecraft.server.level.WorldServer.au(WorldServer.java:947) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:919) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:816) ~[craftbukkit-1.20.4-R0.1-SNAPS
