@@ -17,6 +17,7 @@
       "minecraft:lush_caves": "2024-01-23 20:08:02 +0000",
       "minecraft:deep_cold_ocean": "2024-01-21 22:12:45 +0000",
       "minecraft:desert": "2024-01-21 22:30:37 +0000",
+      "minecraft:frozen_river": "2024-01-25 23:11:43 +0000",
       "minecraft:ocean": "2024-01-23 02:14:52 +0000",
       "minecraft:jungle": "2024-01-24 02:33:49 +0000",
       "minecraft:birch_forest": "2024-01-24 02:28:45 +0000",
@@ -2689,15 +2690,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-01-24 02:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-01-24 02:43:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_bricks": "2024-01-24 02:11:27 +0000"
+      "minecraft:mooshroom": "2024-01-26 00:23:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-01-26 00:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-01-26 00:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-01-26 00:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-01-26 00:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-01-26 00:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-01-26 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-01-26 00:53:58 +0000"
     },
     "done": true
   },
