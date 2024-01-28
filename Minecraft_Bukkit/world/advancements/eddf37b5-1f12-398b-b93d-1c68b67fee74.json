@@ -20,6 +20,7 @@
       "minecraft:frozen_ocean": "2023-12-27 00:20:47 +0000",
       "minecraft:desert": "2024-01-21 22:30:06 +0000",
       "minecraft:frozen_river": "2023-12-26 20:04:08 +0000",
+      "minecraft:deep_frozen_ocean": "2024-01-27 00:08:16 +0000",
       "minecraft:jungle": "2023-12-26 21:19:05 +0000",
       "minecraft:ocean": "2023-12-27 00:43:02 +0000",
       "minecraft:sunflower_plains": "2024-01-11 00:03:12 +0000",
@@ -4716,6 +4717,12 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2024-01-26 01:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-01-28 17:43:38 +0000"
     },
     "done": true
   },
