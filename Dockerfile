@@ -1,4 +1,4 @@
-FROM amazoncorretto:8-alpine3.19-jre
+FROM amazoncorretto:22-headless
 
 RUN mkdir -p /home/minecraft
 WORKDIR /home/minecraft
