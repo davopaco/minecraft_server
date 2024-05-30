@@ -1,0 +1,9 @@
+services:
+  minecraft:
+    image: davopaco/minecraft_server:arm64
+    ports:
+      - "25565:25565"
+    volumes:
+      - minecraft:/home/minecraft
+volumes:
+  minecraft:
