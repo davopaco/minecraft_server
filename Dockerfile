@@ -1,4 +1,4 @@
-FROM amazoncorretto:22-headless
+FROM amazoncorretto:22-alpine-full
 
 RUN mkdir -p /home/minecraft
 WORKDIR /home/minecraft
