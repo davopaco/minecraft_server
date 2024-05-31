@@ -49,6 +49,7 @@
       "minecraft:deep_dark": "2024-01-11 02:51:55 +0000",
       "minecraft:grove": "2023-12-27 00:25:06 +0000",
       "minecraft:meadow": "2024-01-23 21:36:46 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-05-31 20:27:36 +0000",
       "minecraft:savanna": "2023-12-26 20:34:47 +0000",
       "minecraft:plains": "2023-12-26 21:00:13 +0000",
       "minecraft:jagged_peaks": "2024-01-11 00:34:44 +0000"
@@ -4947,6 +4948,24 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2024-05-30 15:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2024-05-31 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2024-05-31 21:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-05-31 21:29:16 +0000"
     },
     "done": true
   },
