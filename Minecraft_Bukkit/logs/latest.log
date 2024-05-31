@@ -669,3 +669,6 @@
 [18:18:35] [Async Chat Thread - #96/INFO]: [Not Secure] <Sofusaka> t lo mande x whats
 [18:20:14] [Async Chat Thread - #99/INFO]: [Not Secure] <Davopaco> ah ya vi cómo se pone
 [18:21:58] [Server thread/INFO]: Davopaco issued server command: /give @p netherite_sword{display:{Name:'[{"text":"<̷","color":"#191616","bold":true,"italic":false}, {"text":"<Obsidian's Greatsword","color":"#fd8d07","bold":true,"italic":true}, {"text":">̷","color":"#191616","bold":true,"italic":false}]',Lore:['{"text":
+[18:22:06] [Server thread/INFO]: Davopaco issued server command: /gamemode creative
+[18:22:06] [Server thread/INFO]: [Davopaco: Set own game mode to Creative Mode]
+[18:22:43] [Server thread/INFO]: Sofusaka has reached the goal [Sky's the Limit]
