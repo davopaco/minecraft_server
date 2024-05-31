@@ -660,3 +660,5 @@
 [18:14:11] [Async Chat Thread - #92/INFO]: [Not Secure] <Sofusaka> creo q tb le puedes poner el nombre cursed
 [18:14:26] [Async Chat Thread - #93/INFO]: [Not Secure] <Sofusaka> y tb se q puedes modificar objetos q ya existen
 [18:14:45] [Async Chat Thread - #92/INFO]: [Not Secure] <Sofusaka> pero me dio flojera, a lo mejor gpt si sabe como es el numero comando
+[18:15:40] [Server thread/INFO]: Sofusaka issued server command: /gamemode survival
+[18:15:40] [Server thread/INFO]: [Sofusaka: Set own game mode to Survival Mode]
