@@ -1,170 +1,296 @@
-[04:22:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:22:19] [ServerMain/INFO]: Loaded 7 recipes
-[04:22:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[04:22:20] [Server thread/INFO]: Loading properties
-[04:22:20] [Server thread/INFO]: Default game type: SURVIVAL
-[04:22:20] [Server thread/INFO]: Generating keypair
-[04:22:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:22:20] [Server thread/INFO]: Using epoll channel type
-[04:22:21] [Server thread/INFO]: This server is running CraftBukkit version 3992-Bukkit-19aec59 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[04:22:21] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[04:22:24] [Server thread/WARN]: Legacy plugin SetHome v5.1.2 does not specify an api-version.
-[04:22:24] [Server thread/ERROR]: Could not load 'plugins/changeskin.jar' in folder 'plugins'
-org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[bukkit-1.20.4-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.loadPlugins(CraftServer.java:426) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:213) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:979) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:296) ~[craftbukkit-1.20.4-R0.1-SNAPSHOT.jar:3992-Bukkit-19aec59]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:22:24] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
-[04:22:24] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.0.13
-[04:22:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.13
-[04:22:25] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.4[32;1m.[0;39m[m
-[04:22:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:22:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:22:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:22:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:22:25] [Server thread/INFO]: Preparing level "world"
-[04:22:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 13%
-[04:22:33] [Worker-Main-1/INFO]: Preparing spawn area: 82%
-[04:22:33] [Server thread/INFO]: Time elapsed: 5148 ms
-[04:22:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:22:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:22:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:22:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:22:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:22:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:22:35] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[04:22:36] [Server thread/INFO]: Time elapsed: 2990 ms
-[04:22:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:22:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:22:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:22:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:22:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:22:38] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[04:22:38] [Server thread/INFO]: Time elapsed: 2169 ms
-[04:22:38] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2
-[04:22:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:22:38] [Server thread/INFO]: Done (12.947s)! For help, type "help"
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.13[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8e4c6e2[0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
-[04:22:39] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
-[04:31:13] [Server thread/INFO]: Davopaco joined the game
-[04:31:14] [Server thread/INFO]: Davopaco[/181.55.23.74:5711] logged in with entity id 13 at ([world]-2499.5250289747805, 82.0, -3762.9585689727114)
-[04:32:10] [Server thread/INFO]: Davopaco issued server command: /save
-[04:32:14] [Server thread/INFO]: Davopaco issued server command: /save-all
-[04:32:14] [Server thread/INFO]: [Davopaco: Saved the game]
-[04:36:12] [Server thread/INFO]: Davopaco issued server command: /save-all
-[04:36:12] [Server thread/INFO]: [Davopaco: Saved the game]
-[04:36:14] [Server thread/INFO]: Davopaco lost connection: Disconnected
-[04:36:14] [Server thread/INFO]: Davopaco left the game
-[04:36:38] [Server thread/INFO]: Davopaco joined the game
-[04:36:38] [Server thread/INFO]: Davopaco[/181.55.23.74:7194] logged in with entity id 3074 at ([world]-2574.147323881182, 72.0, -3805.6300766737836)
-[04:39:29] [Server thread/INFO]: Davopaco lost connection: Disconnected
-[04:39:29] [Server thread/INFO]: Davopaco left the game
-[13:28:53] [Server thread/INFO]: AngelicaRD joined the game
-[13:28:53] [Server thread/INFO]: AngelicaRD[/191.108.131.180:64945] logged in with entity id 4677 at ([world]-2406.5811862017376, 69.0, -3789.5380727545835)
-[13:46:20] [Server thread/INFO]: AngelicaRD has made the advancement [Local Brewery]
-[13:49:54] [Server thread/INFO]: AngelicaRD issued server command: /gamemode spectator
-[13:49:54] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
-[13:50:19] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[13:50:19] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[13:50:59] [Server thread/INFO]: AngelicaRD issued server command: /gamemode spectator
-[13:50:59] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
-[13:52:02] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[13:52:02] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[13:53:20] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[13:53:20] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[13:57:35] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[13:57:35] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[14:04:30] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[14:04:30] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[14:06:06] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[14:06:06] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[14:07:11] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[14:07:11] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[14:08:33] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[14:08:33] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[14:08:47] [Server thread/INFO]: AngelicaRD has made the advancement [Spooky Scary Skeleton]
-[14:11:05] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[14:11:05] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[14:19:16] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[14:19:17] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[14:23:34] [Server thread/INFO]: AngelicaRD has completed the challenge [Return to Sender]
-[14:24:30] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[14:24:30] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[14:25:24] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[14:25:24] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[14:30:47] [Server thread/INFO]: AngelicaRD issued server command: /home
-[14:38:52] [Server thread/INFO]: [@: Teleported AngelicaRD to -21086.500000, 162.000000, -732.500000]
-[14:40:21] [Server thread/INFO]: AngelicaRD issued server command: /home
-[14:41:36] [Server thread/INFO]: [@: Teleported AngelicaRD to -2501.500000, 253.000000, -3518.500000]
-[14:41:53] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[14:41:53] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[14:42:06] [Server thread/INFO]: AngelicaRD issued server command: /gamemode spectator
-[14:42:06] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
-[14:42:22] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[14:42:22] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[14:44:41] [Server thread/INFO]: AngelicaRD issued server command: /gamemode spectator
-[14:44:41] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
-[14:45:23] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[14:45:23] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[14:46:38] [Server thread/INFO]: AngelicaRD issued server command: /home
-[14:47:39] [Server thread/INFO]: [@: Spread 1 player(s) around -2490.0, -3754.27 with an average distance of 0.00 blocks apart]
-[14:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
-[14:53:16] [Server thread/INFO]: AngelicaRD issued server command: /home
-[14:53:26] [Server thread/INFO]: AngelicaRD lost connection: Disconnected
-[14:53:26] [Server thread/INFO]: AngelicaRD left the game
-[15:08:18] [Server thread/INFO]: AngelicaRD joined the game
-[15:08:18] [Server thread/INFO]: AngelicaRD[/191.108.131.180:55261] logged in with entity id 22821 at ([world]-2498.8377774049154, 73.0, -3761.7016773338783)
-[15:21:07] [Server thread/INFO]: AngelicaRD issued server command: /home
-[15:22:23] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[15:22:23] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[15:22:45] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[15:22:45] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[15:23:28] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
-[15:23:28] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
-[15:25:24] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
-[15:25:24] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
-[15:26:08] [Server thread/INFO]: AngelicaRD lost connection: Disconnected
-[15:26:08] [Server thread/INFO]: AngelicaRD left the game
-[15:26:49] [Server thread/INFO]: Sofusaka joined the game
-[15:26:49] [Server thread/INFO]: Sofusaka[/181.55.32.73:51145] logged in with entity id 27144 at ([world]-5.5, 70.0, -0.5)
-[15:28:25] [Server thread/INFO]: Sofusaka lost connection: Disconnected
-[15:28:25] [Server thread/INFO]: Sofusaka left the game
-[17:20:46] [Server thread/INFO]: Davopaco joined the game
-[17:20:46] [Server thread/INFO]: Davopaco[/181.55.23.74:5737] logged in with entity id 27429 at ([world]-2510.963560446029, 72.0, -3846.3939635647894)
-[17:30:08] [Server thread/INFO]: Davopaco lost connection: Disconnected
-[17:30:08] [Server thread/INFO]: Davopaco left the game
-[17:30:36] [Server thread/INFO]: Davopaco joined the game
-[17:30:36] [Server thread/INFO]: Davopaco[/181.55.23.74:5711] logged in with entity id 30525 at ([world]-2499.3038270196284, 71.0, -3789.927663628952)
-[17:35:33] [Server thread/INFO]: Davopaco lost connection: Disconnected
-[17:35:33] [Server thread/INFO]: Davopaco left the game
-[17:52:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10529ms or 210 ticks behind
-[20:09:50] [Server thread/INFO]: AsukitaX joined the game
-[20:09:50] [Server thread/INFO]: AsukitaX[/181.55.23.74:4747] logged in with entity id 32513 at ([world]-2501.261485978053, 74.0, -3758.302237928804)
-[20:11:50] [Server thread/INFO]: AsukitaX lost connection: Disconnected
-[20:11:50] [Server thread/INFO]: AsukitaX left the game
-[20:12:36] [Server thread/INFO]: AsukitaX joined the game
-[20:12:36] [Server thread/INFO]: AsukitaX[/181.55.23.74:4788] logged in with entity id 33429 at ([world]-2527.498980513158, 71.0, -3783.5436129227646)
-[20:14:22] [Server thread/INFO]: AsukitaX lost connection: Disconnected
-[20:14:22] [Server thread/INFO]: AsukitaX left the game
+[14:05:46] [Server thread/INFO]: [Not Secure] [Server] hola
+[14:05:54] [Server thread/INFO]: [Not Secure] [Server] hay alguien conectado?
+[14:06:02] [Server thread/INFO]: [Not Secure] [Server] creo q no
+[14:09:20] [Server thread/INFO]: Davopaco joined the game
+[14:09:20] [Server thread/INFO]: Davopaco[/181.55.23.74:8166] logged in with entity id 34200 at ([world]-2507.847955945674, 70.0, -3785.7935259402416)
+[14:18:06] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[14:18:06] [Server thread/INFO]: Davopaco left the game
+[14:18:07] [Server thread/INFO]: Davopaco joined the game
+[14:18:07] [Server thread/INFO]: Davopaco[/181.55.23.74:5748] logged in with entity id 36456 at ([world]-2501.8365909292306, 66.0, -3752.7632875169033)
+[14:30:14] [Server thread/INFO]: Davopaco has completed the challenge [Serious Dedication]
+[14:49:18] [Server thread/INFO]: Davopaco issued server command: /op Sofusaka
+[14:49:18] [Server thread/INFO]: [Davopaco: Made Sofusaka a server operator]
+[14:59:38] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[14:59:38] [Server thread/INFO]: Davopaco left the game
+[14:59:40] [Server thread/INFO]: Davopaco joined the game
+[14:59:40] [Server thread/INFO]: Davopaco[/181.55.23.74:5591] logged in with entity id 46331 at ([world]-2498.8452335237575, 73.0, -3762.864808164132)
+[14:59:49] [Server thread/INFO]: Davopaco issued server command: /skin
+[14:59:54] [Server thread/INFO]: Davopaco issued server command: /skin update
+[15:01:00] [Server thread/INFO]: Sofusaka joined the game
+[15:01:00] [Server thread/INFO]: Sofusaka[/181.55.32.73:54464] logged in with entity id 47092 at ([world]-34.22437333685811, 71.0, -8.284225727119523)
+[15:01:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Davopaco> ay no
+[15:01:08] [Server thread/INFO]: Sofusaka issued server command: /tp Davopaco
+[15:01:08] [Server thread/INFO]: [Sofusaka: Teleported Sofusaka to Davopaco]
+[15:01:09] [Server thread/INFO]: Davopaco issued server command: /kick Sofusaka
+[15:01:09] [Server thread/INFO]: Sofusaka lost connection: Kicked by an operator
+[15:01:09] [Server thread/INFO]: Sofusaka left the game.
+[15:01:09] [Server thread/INFO]: [Davopaco: Kicked Sofusaka: Kicked by an operator]
+[15:01:12] [Server thread/INFO]: Sofusaka joined the game
+[15:01:12] [Server thread/INFO]: Sofusaka[/181.55.32.73:54474] logged in with entity id 47242 at ([world]-2500.412838727866, 66.0, -3754.1520310190535)
+[15:01:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Sofusaka> .......
+[15:01:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> jasdkjasd
+[15:01:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> los shulkers son tuyos?
+[15:01:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Sofusaka> si
+[15:01:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> ah okokok
+[15:01:47] [Server thread/INFO]: Sofusaka has completed the challenge [Cover Me in Debris]
+[15:01:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> ay ven
+[15:01:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> toma
+[15:01:59] [Server thread/INFO]: Sofusaka has made the advancement [Cover Me with Diamonds]
+[15:02:03] [Server thread/INFO]: Sofusaka has completed the challenge [Serious Dedication]
+[15:02:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> JAJAJAJASKDJSKAJSDKJAS
+[15:02:25] [Server thread/INFO]: Sofusaka has made the advancement [Stone Age]
+[15:02:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> me encanta q el primer advancement es el de cover me in debris
+[15:02:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Davopaco> mmmmmm
+[15:02:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> hacker
+[15:02:45] [Async Chat Thread - #1/INFO]: [Not Secure] <Sofusaka> SDJHFGSHJDFGKSGDFKSKJGH
+[15:02:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Sofusaka> los de hypixel en bedwars
+[15:03:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Davopaco> AY SIIII
+[15:03:04] [Server thread/INFO]: Sofusaka has made the advancement [Take Aim]
+[15:03:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Davopaco> dañando todo
+[15:03:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Sofusaka> sabes el problema
+[15:03:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> de q
+[15:03:35] [Async Chat Thread - #2/INFO]: [Not Secure] <Sofusaka> q ahora mis pajaros no son mios
+[15:03:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Davopaco> AY CIERTO
+[15:03:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> MIÉRCOLES
+[15:03:45] [Async Chat Thread - #1/INFO]: [Not Secure] <Davopaco> noooooooo
+[15:03:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Sofusaka> no habra un comando?
+[15:03:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Davopaco> y ahí uno qué hace?
+[15:03:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Davopaco> yo creo
+[15:03:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Sofusaka> pa transferir ownership?
+[15:03:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Davopaco> busca
+[15:03:57] [Async Chat Thread - #1/INFO]: [Not Secure] <Sofusaka> voy a buscar
+[15:03:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Sofusaka> yes
+[15:04:01] [Server thread/INFO]: Sofusaka has made the advancement [Sweet Dreams]
+[15:04:31] [Server thread/INFO]: Sofusaka issued server command: /sethome
+[15:05:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> no parece q haya
+[15:05:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> hay?
+[15:05:30] [Server thread/INFO]: Davopaco issued server command: /time set 0
+[15:05:30] [Server thread/INFO]: [Davopaco: Set the time to 0]
+[15:05:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Sofusaka> tramposos
+[15:05:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Davopaco> mmmmm
+[15:05:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Davopaco> de q
+[15:05:45] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> mmmm
+[15:05:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> no fui yo
+[15:06:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Sofusaka> crep q hay un monton de polvora
+[15:06:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> sí
+[15:06:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> para qué?
+[15:06:50] [Async Chat Thread - #4/INFO]: [Not Secure] <Sofusaka> fuegos artificiales+explotar el nether
+[15:07:11] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> para debris?
+[15:07:13] [Async Chat Thread - #4/INFO]: [Not Secure] <Sofusaka> si
+[15:07:16] [Async Chat Thread - #5/INFO]: [Not Secure] <Davopaco> ahhh
+[15:07:21] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> tmb hay mucha tnt
+[15:07:21] [Async Chat Thread - #5/INFO]: [Not Secure] <Sofusaka> ademas es divertido
+[15:07:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> ya hecha
+[15:07:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Sofusaka> sii es para el nether
+[15:07:37] [Async Chat Thread - #5/INFO]: [Not Secure] <Sofusaka> es q es divertido ok
+[15:07:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> si
+[15:07:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> ve y estalla el nether
+[15:07:50] [Async Chat Thread - #5/INFO]: [Not Secure] <Sofusaka> ok
+[15:07:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> voy a conseguir los mats
+[15:07:56] [Async Chat Thread - #5/INFO]: [Not Secure] <Davopaco> para la granja de hierro
+[15:08:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> pienso q consigamos beacon
+[15:08:07] [Async Chat Thread - #5/INFO]: [Not Secure] <Sofusaka> ok
+[15:08:16] [Async Chat Thread - #5/INFO]: [Not Secure] <Sofusaka> pero exploto el nether entonces?
+[15:08:21] [Async Chat Thread - #5/INFO]: [Not Secure] <Davopaco> sí
+[15:08:24] [Async Chat Thread - #5/INFO]: [Not Secure] <Davopaco> ven
+[15:08:27] [Async Chat Thread - #5/INFO]: [Not Secure] <Sofusaka> es q tenemos pokita debris
+[15:08:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Davopaco> sisi
+[15:08:43] [Async Chat Thread - #5/INFO]: [Not Secure] <Sofusaka> bueno dejare mis pertenencias x aqui
+[15:10:01] [Async Chat Thread - #7/INFO]: [Not Secure] <Davopaco> xq la espada se llama Morax?
+[15:10:15] [Async Chat Thread - #7/INFO]: [Not Secure] <Sofusaka> morax es el nombre de dios de zhongli
+[15:10:21] [Async Chat Thread - #7/INFO]: [Not Secure] <Davopaco> ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[15:10:26] [Async Chat Thread - #7/INFO]: [Not Secure] <Davopaco> claro, tiene sentido
+[15:10:50] [Server thread/INFO]: Sofusaka has made the advancement [A Throwaway Joke]
+[15:11:55] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> sabes en minecraft yo soy mega vegana xq solo me guista comer papas o zanahorias de oro
+[15:12:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Sofusaka> es mas
+[15:12:07] [Async Chat Thread - #8/INFO]: [Not Secure] <Davopaco> AJSDKLJASKLDJAD
+[15:12:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> me hare mi comida de zanahoras de oro
+[15:12:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Davopaco> yo quiero
+[15:12:12] [Async Chat Thread - #8/INFO]: [Not Secure] <Sofusaka> ok
+[15:12:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> hare dos stacks
+[15:12:18] [Async Chat Thread - #8/INFO]: [Not Secure] <Davopaco> pero casi no tenemos zanahorias
+[15:12:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Davopaco> es por eso q no las hago
+[15:12:22] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> ya vi
+[15:12:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Sofusaka> ,,,,,,,,,
+[15:12:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> voy a sembrar
+[15:12:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Davopaco> me toca comer la putrefacta carne
+[15:12:40] [Async Chat Thread - #9/INFO]: [Not Secure] <Davopaco> JAKSDJKAJSD mentiras
+[15:12:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Sofusaka> KJGHASDJKNSKJDFHJKDHFKJSHG
+[15:12:44] [Async Chat Thread - #9/INFO]: [Not Secure] <Davopaco> tampoco tan derogatory
+[15:12:49] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> ,SBDNFKSJJKSHGBFFGRE
+[15:12:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Davopaco> pero mi comida fav es zanahorias de oro
+[15:12:57] [Async Chat Thread - #8/INFO]: [Not Secure] <Davopaco> toda la vida
+[15:13:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> voy a sembrar un stack de zanahoras
+[15:13:11] [Async Chat Thread - #8/INFO]: [Not Secure] <Sofusaka> pa tener prosperidad
+[15:13:54] [Async Chat Thread - #9/INFO]: [Not Secure] <Sofusaka> no puede ser no tenemos sembradio de zanahoria
+[15:15:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Davopaco> sí
+[15:15:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Davopaco> es totalmente cierto
+[15:15:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Davopaco> por cierto
+[15:16:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Davopaco> nosotros no teníamos una granja de oro?
+[15:16:05] [Async Chat Thread - #11/INFO]: [Not Secure] <Davopaco> me suena
+[15:16:08] [Async Chat Thread - #11/INFO]: [Not Secure] <Davopaco> a q la hicimos
+[15:16:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Sofusaka> no
+[15:16:17] [Async Chat Thread - #11/INFO]: [Not Secure] <Davopaco> ay sí
+[15:16:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Davopaco> no
+[15:16:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Davopaco> lástima
+[15:16:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Davopaco> igual hay mucho oro
+[15:18:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Davopaco> de qué hacemos los building blocks de la granja?
+[15:18:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Sofusaka> creo q hay un monton de netherrack
+[15:18:54] [Async Chat Thread - #13/INFO]: [Not Secure] <Davopaco> ayyy
+[15:19:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Davopaco> no sabía q estaba este bloque
+[15:19:01] [Async Chat Thread - #13/INFO]: [Not Secure] <Davopaco> mira
+[15:19:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Sofusaka> donde ests
+[15:19:37] [Async Chat Thread - #12/INFO]: [Not Secure] <Davopaco> abajo
+[15:19:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Sofusaka> si
+[15:19:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Sofusaka> yo lo pique creo
+[15:20:03] [Async Chat Thread - #13/INFO]: [Not Secure] <Davopaco> nono, eso lo hice
+[15:20:12] [Async Chat Thread - #13/INFO]: [Not Secure] <Davopaco> es con la piedra de abjo
+[15:20:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Davopaco> solo se puede craftear
+[15:20:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Sofusaka> pense q eran de las fortalezas del cerdo
+[15:20:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Davopaco> es con 4 de esos
+[15:20:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Davopaco> nono
+[15:20:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Davopaco> esas se hacen tmb con 4 de esas q te mostré
+[15:22:00] [Async Chat Thread - #15/INFO]: [Not Secure] <Sofusaka> yo creo q x andar escuchando canciones en ruso es q me salian esas letras en scrabble
+[15:22:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Sofusaka> igual q leer libros chinos
+[15:22:08] [Async Chat Thread - #15/INFO]: [Not Secure] <Davopaco> JAKLSSJDLKAJSD
+[15:22:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Davopaco> si
+[15:22:19] [Async Chat Thread - #15/INFO]: [Not Secure] <Davopaco> porque es q como puede ser q puras v y x
+[15:22:23] [Async Chat Thread - #14/INFO]: [Not Secure] <Davopaco> y solo hay una x
+[15:22:27] [Async Chat Thread - #14/INFO]: [Not Secure] <Sofusaka> JGDJSFGHSDF
+[15:22:33] [Async Chat Thread - #15/INFO]: [Not Secure] <Sofusaka> yo tenia 4
+[15:22:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Sofusaka> :*
+[15:22:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Davopaco> JASKLSDJLSADKJFKJAHSFÑASJDFLKJSADLKFJ
+[15:22:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Davopaco> eso te pasa
+[15:24:13] [Async Chat Thread - #17/INFO]: [Not Secure] <Davopaco> sofi
+[15:24:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Sofusaka> yo
+[15:24:17] [Async Chat Thread - #17/INFO]: [Not Secure] <Davopaco> me puedes hacer un fa?
+[15:24:20] [Async Chat Thread - #16/INFO]: [Not Secure] <Sofusaka> dime
+[15:24:22] [Async Chat Thread - #16/INFO]: [Not Secure] <Davopaco> me traes antorchas?
+[15:24:25] [Async Chat Thread - #17/INFO]: [Not Secure] <Davopaco> gracias
+[15:24:27] [Server thread/INFO]: Sofusaka issued server command: /tp Davopaco
+[15:24:27] [Server thread/INFO]: [Sofusaka: Teleported Sofusaka to Davopaco]
+[15:24:51] [Async Chat Thread - #16/INFO]: [Not Secure] <Sofusaka> .
+[15:25:07] [Async Chat Thread - #17/INFO]: [Not Secure] <Davopaco> donde quedaron
+[15:25:12] [Async Chat Thread - #17/INFO]: [Not Secure] <Sofusaka> te las di
+[15:25:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Davopaco> eeeeeee
+[15:25:19] [Async Chat Thread - #17/INFO]: [Not Secure] <Sofusaka> ............
+[15:25:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Davopaco> no las tengo
+[15:25:34] [Async Chat Thread - #16/INFO]: [Not Secure] <Davopaco> gracias
+[15:25:41] [Async Chat Thread - #17/INFO]: [Not Secure] <Davopaco> ya
+[15:25:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Davopaco> las recuperé
+[15:25:49] [Async Chat Thread - #17/INFO]: [Not Secure] <Sofusaka> oka oka
+[15:25:53] [Server thread/INFO]: Sofusaka issued server command: /home
+[15:27:27] [Async Chat Thread - #19/INFO]: [Not Secure] <Sofusaka> no te enseñe ayer lo q escribe gpt de smut
+[15:27:38] [Async Chat Thread - #18/INFO]: [Not Secure] <Sofusaka> sabes q me gusta q x este chat solo nos vigila oracle
+[15:27:45] [Async Chat Thread - #19/INFO]: [Not Secure] <Davopaco> siiiiiiiiiii
+[15:27:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Davopaco> AY CIERTO
+[15:27:51] [Async Chat Thread - #18/INFO]: [Not Secure] <Sofusaka> aqui podemos hacer un atentado terrorista y equisssssss
+[15:27:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Davopaco> nadie va a saber
+[15:28:00] [Async Chat Thread - #19/INFO]: [Not Secure] <Davopaco> jijijiji
+[15:28:09] [Async Chat Thread - #19/INFO]: [Not Secure] <Sofusaka> x el chat de the nexus battles ii
+[15:28:11] [Async Chat Thread - #18/INFO]: [Not Secure] <Sofusaka> :*
+[15:30:16] [Async Chat Thread - #21/INFO]: [Not Secure] <Sofusaka> mira whatsaoo
+[15:30:19] [Async Chat Thread - #20/INFO]: [Not Secure] <Davopaco> voy
+[15:38:57] [Async Chat Thread - #23/INFO]: [Not Secure] <Sofusaka> tu hoy no tenias trabaho
+[15:39:04] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> en teoría
+[15:39:08] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> pero no me llamaron
+[15:39:10] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> entonces
+[15:39:18] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> no creo q haya
+[15:39:21] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> pensé
+[15:39:22] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> mira
+[15:39:24] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> mejor
+[15:39:25] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> la verdad
+[15:39:28] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> era algo extra
+[15:39:32] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> no de la essa
+[15:39:35] [Async Chat Thread - #22/INFO]: [Not Secure] <Sofusaka> mas tiempo para mimir
+[15:39:36] [Async Chat Thread - #23/INFO]: [Not Secure] <Sofusaka> aaaaaa
+[15:39:37] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> sí
+[15:39:38] [Async Chat Thread - #22/INFO]: [Not Secure] <Sofusaka> de q era
+[15:39:46] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> era de ir a fingir q era un chef
+[15:39:48] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> pero canon
+[15:39:55] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> q si graduado de gastronomía de la unab
+[15:39:57] [Async Chat Thread - #22/INFO]: [Not Secure] <Sofusaka> o sea actuar?=$"?
+[15:39:58] [Async Chat Thread - #23/INFO]: [Not Secure] <Sofusaka> QUE
+[15:39:59] [Async Chat Thread - #22/INFO]: [Not Secure] <Sofusaka> JSNDHBFKJSDH
+[15:40:03] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> para servir platos ya hechos
+[15:40:03] [Async Chat Thread - #22/INFO]: [Not Secure] <Sofusaka> PARA QUE
+[15:40:06] [Async Chat Thread - #23/INFO]: [Not Secure] <Sofusaka> A
+[15:40:07] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> no supe
+[15:40:10] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> realmente
+[15:40:18] [Async Chat Thread - #22/INFO]: [Not Secure] <Sofusaka> Y QN TE CONTRATO
+[15:40:27] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> uno de mis ocmpañeros de trabajo
+[15:40:32] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> me llamó out of nowhere
+[15:40:34] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> y me dijo
+[15:40:42] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> pero supuestamente me avisaba ayer
+[15:40:45] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> entonces no dijo
+[15:40:50] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> y yo pues bueeeeeeeeeeeeeeeeeeeeno
+[15:40:52] [Async Chat Thread - #23/INFO]: [Not Secure] <Davopaco> no me quejo
+[15:40:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> realmente
+[15:41:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Davopaco> -2328 -25 -3382 geoda
+[15:43:23] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> necesitas grava?
+[15:43:27] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> tengo stack y medio
+[15:43:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Sofusaka> E
+[15:43:32] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> si no, lo boto
+[15:43:33] [Async Chat Thread - #24/INFO]: [Not Secure] <Sofusaka> o x el momento
+[15:43:38] [Async Chat Thread - #25/INFO]: [Not Secure] <Sofusaka> dile chao
+[15:44:24] [Server thread/INFO]: Davopaco issued server command: /give Davopaco minecraft:flint_and_steel
+[15:44:24] [Server thread/INFO]: [Davopaco: Gave 1 [Flint and Steel] to Davopaco]
+[15:44:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Sofusaka> kjhkjhjkdf
+[15:44:35] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> perdón
+[15:44:38] [Async Chat Thread - #24/INFO]: [Not Secure] <Davopaco> tenía q quemarlos
+[15:44:44] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> tmb quemé el flint and steel
+[15:44:49] [Async Chat Thread - #24/INFO]: [Not Secure] <Sofusaka> es q me da risa
+[15:44:51] [Async Chat Thread - #24/INFO]: [Not Secure] <Sofusaka> q
+[15:45:00] [Async Chat Thread - #25/INFO]: [Not Secure] <Sofusaka> te diste un flit
+[15:45:05] [Async Chat Thread - #24/INFO]: [Not Secure] <Sofusaka> pa quemar grava
+[15:45:09] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> KAJHSDJSDHFDKJAHSFD
+[15:45:12] [Async Chat Thread - #24/INFO]: [Not Secure] <Davopaco> y otras cosas
+[15:45:19] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> por cierto
+[15:45:24] [Async Chat Thread - #24/INFO]: [Not Secure] <Davopaco> esta cueva está sin explorar
+[15:45:34] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> -2325 -8 -3433 cueva
+[15:45:44] [Server thread/INFO]: Davopaco issued server command: /home
+[15:46:26] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> nosotros no teníamos un stone cutter?
+[15:46:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Sofusaka> si
+[15:46:37] [Async Chat Thread - #25/INFO]: [Not Secure] <Davopaco> dónde está?
+[15:48:35] [Async Chat Thread - #27/INFO]: [Not Secure] <Sofusaka> mi mama ya me ha reclamado como 4 veces xq no le traje el sapo de tu casa
+[15:48:50] [Async Chat Thread - #26/INFO]: [Not Secure] <Davopaco> JASKDJSALKDFJASKLDFJLKASJDFLKASJFLKAJSDFDLKJASDFLKJASFLKJASDFLKJASDKLFJ Y DÓNDE TE LO IBAS A LLEVAR????????????????????????
+[15:49:00] [Async Chat Thread - #27/INFO]: [Not Secure] <Sofusaka> KJHSJKDFHJKSH NO SE
+[15:50:02] [Async Chat Thread - #29/INFO]: [Not Secure] <Sofusaka> no teniamos agua infinita
+[15:50:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Sofusaka> aparte de la del mar
+[15:50:06] [Async Chat Thread - #29/INFO]: [Not Secure] <Davopaco> EH
+[15:50:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Sofusaka> aKJHKJDSF
+[15:50:08] [Async Chat Thread - #29/INFO]: [Not Secure] <Davopaco> sí
+[15:50:10] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> la tapé
+[15:50:14] [Async Chat Thread - #29/INFO]: [Not Secure] <Sofusaka> ???????
+[15:50:14] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> mmmm
+[15:50:22] [Async Chat Thread - #29/INFO]: [Not Secure] <Davopaco> jijij
+[15:50:28] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> es q se veía fea
+[15:50:31] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> voy a hacer una fuente
+[15:50:34] [Async Chat Thread - #29/INFO]: [Not Secure] <Davopaco> tenía planeado
+[15:50:38] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> pa q se vea linda
+[15:50:52] [Async Chat Thread - #29/INFO]: [Not Secure] <Davopaco> igual acá hay 2 buckets de agua
+[15:50:59] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> 1*
+[15:51:10] [Async Chat Thread - #29/INFO]: [Not Secure] <Sofusaka> tenemos un mar
+[15:51:14] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> JAKLDJAKLJSD
+[15:51:17] [Async Chat Thread - #29/INFO]: [Not Secure] <Davopaco> osea sí
+[15:51:20] [Async Chat Thread - #28/INFO]: [Not Secure] <Davopaco> pero aj´á
+[15:53:32] [Async Chat Thread - #30/INFO]: [Not Secure] <Sofusaka> tu me seguirias creyendo si sabes q yo creo q hollywood si le hace manipulacion mental a sus artistas
+[15:56:20] [Async Chat Thread - #32/INFO]: [Not Secure] <Davopaco> sí
+[15:56:23] [Async Chat Thread - #31/INFO]: [Not Secure] <Davopaco> yo te lo creo
+[15:56:25] [Async Chat Thread - #32/INFO]: [Not Secure] <Davopaco> te lo compro
+[16:00:58] [Async Chat Thread - #34/INFO]: [Not Secure] <Davopaco> voy a dejar el stonecutter abajo
+[16:01:04] [Async Chat Thread - #33/INFO]: [Not Secure] <Sofusaka> ok
+[16:01:41] [Async Chat Thread - #34/INFO]: [Not Secure] <Davopaco> oye
+[16:01:46] [Async Chat Thread - #33/INFO]: [Not Secure] <Davopaco> tú tienes alguna capa?
+[16:01:48] [Async Chat Thread - #33/INFO]: [Not Secure] <Davopaco> o no?
+[16:02:50] [Async Chat Thread - #36/INFO]: [Not Secure] <Davopaco> aviso q casi quemo la granja
+[16:06:04] [Server thread/INFO]: Davopaco issued server command: /save-all
+[16:06:04] [Server thread/INFO]: [Davopaco: Saved the game]
+[16:07:03] [Async Chat Thread - #38/INFO]: [Not Secure] <Sofusaka> que
+[16:07:05] [Async Chat Thread - #37/INFO]: [Not Secure] <Sofusaka> PERDON
+[16:07:09] [Async Chat Thread - #38/INFO]: [Not Secure] <Sofusaka> ESTABA HABKANDO CON MI MAMA
+[16:07:13] [Async Chat Thread - #37/INFO]: [Not Secure] <Sofusaka> ABRI EL CHAT Y VI QUEMO
+[16:07:16] [Async Chat Thread - #38/INFO]: [Not Secure] <Sofusaka> Y YO
+[16:07:17] [Async Chat Thread - #37/INFO]: [Not Secure] <Sofusaka> ?#$%#$&
+[16:07:32] [Async Chat Thread - #38/INFO]: [Not Secure] <Sofusaka> no, no tengo capa
+[16:07:38] [Async Chat Thread - #37/INFO]: [Not Secure] <Sofusaka> y XQ CASI QUEMAS LA GRANJA
