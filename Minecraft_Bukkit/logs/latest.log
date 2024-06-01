@@ -427,3 +427,5 @@
 [22:51:39] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
 [22:52:18] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
 [22:52:18] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
+[22:54:35] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
+[22:54:35] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
