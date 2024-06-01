@@ -243,3 +243,5 @@
 [19:53:52] [Server thread/INFO]: [@: Teleported Davopaco to -2501.560000, 66.000000, -3754.000000]
 [20:10:12] [Server thread/INFO]: [@: Set Davopaco's game mode to Creative Mode]
 [20:10:14] [Server thread/INFO]: [@: Set Davopaco's game mode to Survival Mode]
+[20:11:56] [Server thread/INFO]: Davopaco issued server command: /summon minecraft:armor_stand ~ ~ ~ {ShowArms:1}
+[20:11:56] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
