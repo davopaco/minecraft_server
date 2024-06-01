@@ -198,3 +198,6 @@
 [16:08:50] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
 [16:46:21] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
 [16:46:21] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
+[16:48:16] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
+[16:48:26] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
+[16:48:26] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
