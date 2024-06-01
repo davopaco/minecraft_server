@@ -408,3 +408,16 @@
 [22:35:14] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
 [22:36:22] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
 [22:36:22] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
+[22:40:09] [Async Chat Thread - #215/INFO]: [Not Secure] <Davopaco> yoooooooooooooooooooooooo
+[22:40:14] [Async Chat Thread - #215/INFO]: [Not Secure] <Davopaco> cuál será cuál
+[22:40:19] [Async Chat Thread - #215/INFO]: [Not Secure] <Davopaco> a lo mejor serán delirios
+[22:40:24] [Async Chat Thread - #215/INFO]: [Not Secure] <Davopaco> quién sabe
+[22:40:26] [Async Chat Thread - #215/INFO]: [Not Secure] <Davopaco> tan tan tan
+[22:40:28] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[22:40:28] [Server thread/INFO]: Davopaco left the game
+[22:40:31] [Async Chat Thread - #215/INFO]: [Not Secure] <AngelicaRD> a
+[22:40:33] [Async Chat Thread - #215/INFO]: [Not Secure] <AngelicaRD> xd
+[22:41:23] [Server thread/INFO]: AngelicaRD issued server command: /gamemode spectator
+[22:41:23] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
+[22:43:00] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
+[22:43:00] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
