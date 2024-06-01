@@ -102,3 +102,91 @@
 [01:45:56] [Server thread/INFO]: [Not Secure] [Server] muak
 [01:45:59] [Server thread/INFO]: [Not Secure] [Server] por cierto
 [01:46:05] [Server thread/INFO]: [Not Secure] [Server] la granja de hierro ya está
+[01:50:39] [Server thread/INFO]: [@: Gave 1 [🌺Azealia Banks🌺] to Sofusaka]
+[01:53:19] [Server thread/INFO]: Sofusaka issued server command: /tp Sara Sofusaka
+[01:53:19] [Server thread/INFO]: [Sofusaka: Teleported Sara to Sofusaka]
+[01:54:20] [Server thread/INFO]: [@: Teleported Sara to -21086.500000, 162.000000, -732.500000]
+[01:55:17] [Server thread/INFO]: Sara issued server command: /tp Sofusaka
+[01:55:17] [Server thread/INFO]: [Sara: Teleported Sara to Sofusaka]
+[01:55:26] [Server thread/INFO]: [@: Teleported Sara to -21086.500000, 162.000000, -732.500000]
+[01:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[01:56:54] [Server thread/INFO]: Sara issued server command: /tp Sofusaka
+[01:56:54] [Server thread/INFO]: [Sara: Teleported Sara to Sofusaka]
+[01:56:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[01:58:02] [Server thread/INFO]: Sara lost connection: Disconnected
+[01:58:02] [Server thread/INFO]: Sara left the game
+[02:00:02] [Server thread/INFO]: Sara joined the game
+[02:00:02] [Server thread/INFO]: Sara[/181.55.32.73:49778] logged in with entity id 243695 at ([world]-2512.464917907875, 57.0, -3759.6818087559395)
+[02:08:08] [Server thread/INFO]: Sofusaka issued server command: /gamemode spectator
+[02:08:08] [Server thread/INFO]: [Sofusaka: Set own game mode to Spectator Mode]
+[02:10:01] [Server thread/INFO]: Sara issued server command: /tp so
+[02:10:15] [Server thread/INFO]: Sara issued server command: /tp so
+[02:10:28] [Server thread/INFO]: Sara issued server command: /tp Sofusaka
+[02:10:28] [Server thread/INFO]: [Sara: Teleported Sara to Sofusaka]
+[02:11:57] [Server thread/INFO]: Sofusaka issued server command: /gamemode creative
+[02:11:57] [Server thread/INFO]: [Sofusaka: Set own game mode to Creative Mode]
+[02:13:28] [Server thread/INFO]: Sofusaka issued server command: /tp s
+[02:13:33] [Server thread/INFO]: Sofusaka issued server command: /tp Sara
+[02:13:33] [Server thread/INFO]: [Sofusaka: Teleported Sofusaka to Sara]
+[02:13:45] [Server thread/INFO]: Sofusaka issued server command: /home
+[02:14:26] [Server thread/INFO]: Sara issued server command: /gamemode
+[02:14:40] [Server thread/INFO]: Sara issued server command: /gamemode creative
+[02:14:40] [Server thread/INFO]: [Sara: Set own game mode to Creative Mode]
+[02:23:58] [Server thread/INFO]: Sara lost connection: Disconnected
+[02:23:58] [Server thread/INFO]: Sara left the game
+[02:26:27] [Server thread/INFO]: Sofusaka has made the advancement [Diamonds!]
+[02:36:47] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:36:56] [Server thread/INFO]: Sofusaka issued server command: /gamemode creative
+[02:36:56] [Server thread/INFO]: [Sofusaka: Set own game mode to Creative Mode]
+[02:37:07] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:37:16] [Server thread/INFO]: Sofusaka issued server command: /gamemode creative
+[02:37:16] [Server thread/INFO]: [Sofusaka: Set own game mode to Creative Mode]
+[02:38:35] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:38:37] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:38:39] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:38:39] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:38:40] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:38:41] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:38:41] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:38:43] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:38:43] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:40:28] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:43:47] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:43:47] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:43:48] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:43:58] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:48:51] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:48:51] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:48:52] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:48:52] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:48:53] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:48:53] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:48:54] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:48:54] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:48:55] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:48:55] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:49:37] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:50:17] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:54:20] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:54:29] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:55:01] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[02:55:06] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[02:59:38] [Server thread/INFO]: [@: Teleported Sofusaka to -2507.430000, 55.850000, -3768.000000]
+[03:00:26] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:00:39] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:02:47] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[03:02:48] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[03:02:49] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[03:02:51] [Server thread/INFO]: [@: Set Sofusaka's game mode to Creative Mode]
+[03:10:57] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:11:08] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:16:17] [Server thread/INFO]: [@: Teleported Sofusaka to -2510.049000, 57.000000, -3761.951000]
+[03:16:24] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:16:26] [Server thread/INFO]: [@: Teleported Sofusaka to -2510.049000, 57.000000, -3761.951000]
+[03:16:33] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:16:36] [Server thread/INFO]: [@: Teleported Sofusaka to -2510.049000, 57.000000, -3761.951000]
+[03:16:38] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:17:21] [Server thread/INFO]: [@: Set Sofusaka's game mode to Survival Mode]
+[03:17:24] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
+[03:17:38] [Server thread/INFO]: Sofusaka lost connection: Disconnected
+[03:17:38] [Server thread/INFO]: Sofusaka left the game
