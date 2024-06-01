@@ -4951,12 +4951,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/very_very_frightening": {
-    "criteria": {
-      "struck_villager": "2024-05-31 21:38:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/use_lodestone": {
     "criteria": {
       "use_lodestone": "2024-05-31 21:00:19 +0000"
@@ -4966,6 +4960,66 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-05-31 21:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2024-05-31 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-05-31 23:35:25 +0000"
     },
     "done": true
   },
