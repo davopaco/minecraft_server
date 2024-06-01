@@ -245,3 +245,10 @@
 [20:10:14] [Server thread/INFO]: [@: Set Davopaco's game mode to Survival Mode]
 [20:11:56] [Server thread/INFO]: Davopaco issued server command: /summon minecraft:armor_stand ~ ~ ~ {ShowArms:1}
 [20:11:56] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
+[20:12:16] [Server thread/INFO]: Davopaco issued server command: /ga c
+[20:12:17] [Server thread/INFO]: [@: Set Davopaco's game mode to Creative Mode]
+[20:12:22] [Server thread/INFO]: Davopaco issued server command: /ga c
+[20:12:24] [Server thread/INFO]: Davopaco issued server command: /summon minecraft:armor_stand ~ ~ ~ {ShowArms:1}
+[20:12:24] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
+[20:12:28] [Server thread/INFO]: Davopaco issued server command: /summon minecraft:armor_stand ~ ~ ~ {ShowArms:1}
+[20:12:28] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
