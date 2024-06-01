@@ -4113,7 +4113,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:black": "2024-01-17 02:47:45 +0000"
+      "minecraft:black": "2024-01-17 02:47:45 +0000",
+      "minecraft:ragdoll": "2024-06-01 00:14:07 +0000"
     },
     "done": false
   },
