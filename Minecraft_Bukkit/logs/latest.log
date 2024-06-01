@@ -190,3 +190,9 @@
 [03:17:24] [Server thread/INFO]: [@: Teleported Sofusaka to -2501.560000, 66.000000, -3754.000000]
 [03:17:38] [Server thread/INFO]: Sofusaka lost connection: Disconnected
 [03:17:38] [Server thread/INFO]: Sofusaka left the game
+[16:04:33] [Server thread/INFO]: AngelicaRD joined the game
+[16:04:33] [Server thread/INFO]: AngelicaRD[/191.108.176.120:64643] logged in with entity id 259216 at ([world]-2525.710374620635, 71.0, -3786.9332425604107)
+[16:08:10] [Server thread/INFO]: AngelicaRD issued server command: /gamemode creative
+[16:08:10] [Server thread/INFO]: [AngelicaRD: Set own game mode to Creative Mode]
+[16:08:50] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
+[16:08:50] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
