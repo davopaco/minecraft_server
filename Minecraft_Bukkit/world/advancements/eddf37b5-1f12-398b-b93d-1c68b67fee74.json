@@ -48,6 +48,7 @@
       "minecraft:old_growth_birch_forest": "2023-12-27 01:02:46 +0000",
       "minecraft:deep_dark": "2024-01-11 02:51:55 +0000",
       "minecraft:grove": "2023-12-27 00:25:06 +0000",
+      "minecraft:swamp": "2024-06-01 22:31:23 +0000",
       "minecraft:meadow": "2024-01-23 21:36:46 +0000",
       "minecraft:windswept_gravelly_hills": "2024-05-31 20:27:36 +0000",
       "minecraft:savanna": "2023-12-26 20:34:47 +0000",
@@ -5056,6 +5057,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2024-06-01 17:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-06-01 22:29:29 +0000"
     },
     "done": true
   },
