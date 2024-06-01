@@ -281,3 +281,8 @@
 [20:22:19] [Server thread/INFO]: Davopaco issued server command: /summon armor_stand ~ ~ ~ {NoGravity:1b,ShowArms:1b,Rotation:[-90f,0f],ArmorItems:[{},{},{},{id:"minecraft:dragon_head",Count:1b}],Pose:{RightArm:[-45f,0f,45f],LeftArm:[-45f,0f,-45f]}}
 [20:22:19] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
 [20:22:54] [Server thread/INFO]: [@: Modified entity data of Armor Stand]
+[20:24:07] [Netty Epoll Server IO #5/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:25:20] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[20:25:20] [Server thread/INFO]: Davopaco left the game
+[20:25:36] [Server thread/INFO]: Davopaco joined the game
+[20:25:36] [Server thread/INFO]: Davopaco[/181.55.23.74:5714] logged in with entity id 309407 at ([world]-2510.064238189265, 57.0, -3770.526528192511)
