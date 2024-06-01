@@ -368,3 +368,21 @@
 [20:53:08] [Server thread/INFO]: Davopaco left the game
 [22:04:25] [Server thread/INFO]: AngelicaRD joined the game
 [22:04:26] [Server thread/INFO]: AngelicaRD[/191.108.176.120:64638] logged in with entity id 315787 at ([world]-2527.607372190884, 71.25587393964534, -3793.063966621959)
+[22:26:55] [Server thread/INFO]: AngelicaRD issued server command: /gamemode
+[22:27:04] [Server thread/INFO]: AngelicaRD issued server command: /gamemode spectator
+[22:27:04] [Server thread/INFO]: [AngelicaRD: Set own game mode to Spectator Mode]
+[22:27:55] [Server thread/INFO]: AngelicaRD issued server command: /gamemode survival
+[22:27:55] [Server thread/INFO]: [AngelicaRD: Set own game mode to Survival Mode]
+[22:28:04] [Server thread/INFO]: Davopaco joined the game
+[22:28:04] [Server thread/INFO]: Davopaco[/181.55.23.74:9189] logged in with entity id 321912 at ([world]-2493.84928114675, 73.0, -3759.074999988079)
+[22:28:10] [Async Chat Thread - #208/INFO]: [Not Secure] <Davopaco> ay angelik
+[22:28:14] [Async Chat Thread - #209/INFO]: [Not Secure] <Davopaco> viste las particulas?
+[22:28:14] [Async Chat Thread - #209/INFO]: [Not Secure] <AngelicaRD> hola
+[22:28:17] [Async Chat Thread - #208/INFO]: [Not Secure] <AngelicaRD> siii
+[22:28:21] [Async Chat Thread - #209/INFO]: [Not Secure] <AngelicaRD> está super cuuute
+[22:28:23] [Server thread/INFO]: Davopaco issued server command: /tp AngelicaRD
+[22:28:23] [Server thread/INFO]: [Davopaco: Teleported Davopaco to AngelicaRD]
+[22:28:37] [Async Chat Thread - #209/INFO]: [Not Secure] <AngelicaRD> tp random
+[22:28:41] [Async Chat Thread - #209/INFO]: [Not Secure] <Davopaco> AAAAAAAAAAAAAAAA
+[22:28:43] [Server thread/INFO]: Davopaco issued server command: /hom
+[22:28:45] [Server thread/INFO]: Davopaco issued server command: /home
