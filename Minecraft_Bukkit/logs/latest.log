@@ -71,3 +71,5 @@
 [00:26:27] [Server thread/INFO]: Sofusaka left the game
 [00:46:37] [Server thread/INFO]: Davopaco joined the game
 [00:46:37] [Server thread/INFO]: Davopaco[/181.55.23.74:3313] logged in with entity id 223075 at ([world]-2454.487500011921, 69.0, -3852.2238556956595)
+[00:48:14] [Server thread/INFO]: Davopaco issued server command: /time set night
+[00:48:14] [Server thread/INFO]: [Davopaco: Set the time to 13000]
