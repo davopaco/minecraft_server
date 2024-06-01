@@ -64,3 +64,8 @@
 [00:18:05] [Server thread/INFO]: Davopaco left the game
 [00:20:49] [Server thread/INFO]: Sofusaka issued server command: /gamemode creative
 [00:20:49] [Server thread/INFO]: [Sofusaka: Set own game mode to Creative Mode]
+[00:26:20] [Server thread/INFO]: Sofusaka issued server command: /gamemode creative
+[00:26:25] [Server thread/INFO]: Sofusaka issued server command: /gamemode survival
+[00:26:25] [Server thread/INFO]: [Sofusaka: Set own game mode to Survival Mode]
+[00:26:27] [Server thread/INFO]: Sofusaka lost connection: Disconnected
+[00:26:27] [Server thread/INFO]: Sofusaka left the game
