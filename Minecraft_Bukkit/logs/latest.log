@@ -253,3 +253,9 @@
 [20:12:28] [Server thread/INFO]: Davopaco issued server command: /summon minecraft:armor_stand ~ ~ ~ {ShowArms:1}
 [20:12:28] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
 [20:13:16] [Server thread/INFO]: Davopaco issued server command: /summon armor_stand &lt;x&gt; &lt;y&gt; &lt;z&gt; {Pose:{Head:[&lt;x&gt;,&lt;y&gt;,&lt;z&gt;],Body:[&lt;x&gt;,&lt;y&gt;,&lt;z&gt;],LeftArm:[&lt;x&gt;,&lt;y&gt;,&lt;z&gt;],RightArm:[&lt;x&gt;,&lt;y&gt;,&lt;z&gt;],LeftLeg:[&lt;x&gt;,&lt;y&gt;,&lt;z&gt;],Righ
+[20:14:38] [Server thread/INFO]: Davopaco issued server command: /summon armor_stand ~ ~ ~ {NoGravity:1b,ShowArms:1b,Pose:{RightArm:[-90f,0f,0f],LeftArm:[-90f,0f,0f]}}
+[20:14:38] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
+[20:14:44] [Server thread/INFO]: Davopaco issued server command: /summon armor_stand ~ ~ ~ {NoGravity:1b,ShowArms:1b,Pose:{RightArm:[-90f,0f,0f],LeftArm:[-90f,0f,0f]}}
+[20:14:44] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
+[20:14:48] [Server thread/INFO]: Davopaco issued server command: /summon armor_stand ~ ~ ~ {NoGravity:1b,ShowArms:1b,Pose:{RightArm:[-90f,0f,0f],LeftArm:[-90f,0f,0f]}}
+[20:14:48] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
