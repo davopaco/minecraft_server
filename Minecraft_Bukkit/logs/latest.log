@@ -212,3 +212,8 @@
 [18:57:53] [Server thread/INFO]: Davopaco issued server command: /give Davopaco minecraft:totem_of_undying
 [18:57:53] [Server thread/INFO]: [Davopaco: Gave 1 [Totem of Undying] to Davopaco]
 [19:12:16] [Server thread/INFO]: Davopaco issued server command: /home
+[19:18:51] [Server thread/INFO]: Davopaco issued server command: /gamemode creative
+[19:18:51] [Server thread/INFO]: [Davopaco: Set own game mode to Creative Mode]
+[19:18:55] [Server thread/INFO]: [@: Gave 1 [🍰Silk-A-Boo🍰] to Davopaco]
+[19:19:08] [Server thread/INFO]: Davopaco issued server command: /gamemode survival
+[19:19:08] [Server thread/INFO]: [Davopaco: Set own game mode to Survival Mode]
