@@ -229,3 +229,7 @@
 [19:37:53] [Server thread/INFO]: [@: Set Davopaco's game mode to Creative Mode]
 [19:38:04] [Server thread/INFO]: [@: Set Davopaco's game mode to Survival Mode]
 [19:38:53] [Server thread/INFO]: [@: Teleported Davopaco to -2510.049000, 57.000000, -3761.951000]
+[19:39:22] [Server thread/INFO]: Davopaco issued server command: /gamemode spectator
+[19:39:22] [Server thread/INFO]: [Davopaco: Set own game mode to Spectator Mode]
+[19:39:47] [Server thread/INFO]: Davopaco issued server command: /gamemode survival
+[19:39:47] [Server thread/INFO]: [Davopaco: Set own game mode to Survival Mode]
