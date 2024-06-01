@@ -275,3 +275,9 @@
 [20:19:43] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
 [20:20:39] [Server thread/INFO]: Davopaco issued server command: /give Davopaco minecraft:command_block
 [20:20:39] [Server thread/INFO]: [Davopaco: Gave 1 [Command Block] to Davopaco]
+[20:21:04] [Server thread/INFO]: [@: Modified entity data of Armor Stand]
+[20:21:57] [Server thread/INFO]: Davopaco issued server command: /summon armor_stand ~ ~ ~ {NoGravity:1b,ShowArms:1b,Rotation:[90f,0f],ArmorItems:[{},{},{},{id:"minecraft:dragon_head",Count:1b}],Pose:{RightArm:[-45f,0f,45f],LeftArm:[-45f,0f,-45f]}}
+[20:21:57] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
+[20:22:19] [Server thread/INFO]: Davopaco issued server command: /summon armor_stand ~ ~ ~ {NoGravity:1b,ShowArms:1b,Rotation:[-90f,0f],ArmorItems:[{},{},{},{id:"minecraft:dragon_head",Count:1b}],Pose:{RightArm:[-45f,0f,45f],LeftArm:[-45f,0f,-45f]}}
+[20:22:19] [Server thread/INFO]: [Davopaco: Summoned new Armor Stand]
+[20:22:54] [Server thread/INFO]: [@: Modified entity data of Armor Stand]
