@@ -360,3 +360,7 @@
 [20:34:26] [Server thread/INFO]: [Davopaco: Displaying particle minecraft:angry_villager]
 [20:34:40] [Server thread/INFO]: Davopaco issued server command: /gamerule commandBlockOutput false
 [20:34:40] [Server thread/INFO]: [Davopaco: Gamerule commandBlockOutput is now set to: false]
+[20:47:14] [Server thread/INFO]: Davopaco lost connection: Disconnected
+[20:47:14] [Server thread/INFO]: Davopaco left the game
+[20:47:19] [Server thread/INFO]: Davopaco joined the game
+[20:47:19] [Server thread/INFO]: Davopaco[/181.55.23.74:8635] logged in with entity id 313827 at ([world]-2509.957660865417, 57.0, -3764.5732960016912)
