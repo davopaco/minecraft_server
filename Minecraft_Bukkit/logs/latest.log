@@ -1,4 +1,16 @@
-[15:31:33] [Server thread/INFO]: Davopaco joined the game
-[15:31:33] [Server thread/INFO]: Davopaco[/181.55.23.74:1680] logged in with entity id 370409 at ([world_nether]-621.9128202577765, 92.0, -522.3272713916976)
-[15:36:37] [Server thread/INFO]: Davopaco lost connection: Disconnected
-[15:36:37] [Server thread/INFO]: Davopaco left the game
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [31;1m15.0.13[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [31;1m8e4c6e2[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    A new version ([32;1m15.0.14[36;1m) is available! Downloading update...[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloading update...[0;39m[m
+[20:03:12] [Craft Scheduler Thread - 1442/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] MD5 header not found, cannot verify integrity[0;39m
+[20:03:13] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloaded update in 611ms[0;39m[m
+[20:03:13] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Update saved as SkinsRestorer.jar[0;39m[m
+[20:03:13] [Craft Scheduler Thread - 1442/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] The update will be loaded on the next server restart[0;39m[m
